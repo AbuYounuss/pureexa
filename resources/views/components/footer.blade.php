@@ -3,9 +3,9 @@
             <!-- COLL-TO ACTION START -->
             <div class="section-full overlay-wraper site-bg-primary" style="background-image:url({{ asset('images/background/bg-7.png') }});">
 
-                <div class="section-content ">
+            <div class="section-content ">
                 <!-- COLL-TO ACTION START -->
-                	<div class="wt-subscribe-box">
+                	{{-- <div class="wt-subscribe-box">
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-8 col-sm-8">
@@ -24,8 +24,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-
+                    </div> --}}
                 </div>
             </div>
 

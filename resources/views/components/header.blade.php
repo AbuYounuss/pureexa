@@ -45,14 +45,14 @@
                                     <a href="{{ url('/about') }}">About</a>
                                 </li>
 
-                                <!-- Shop -->
+                                <!-- services -->
                                 <li>
-                                    <a href="{{ url('/shop') }}">Shop</a>
+                                    <a href="{{ url('/services') }}">Services</a>
                                 </li>
 
                                 <!-- Services -->
                                 <li>
-                                    <a href="javascript:;">Services <i class="fa fa-chevron-down"></i></a>
+                                    <a href="javascript:;">Products <i class="fa fa-chevron-down"></i></a>
 
                                     <ul class="sub-menu">
                                         <li><a href="{{ url('/category/skincare') }}">Skincare</a></li>

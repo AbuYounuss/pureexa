@@ -26,7 +26,7 @@
             @include('components.company-status')
 
              {{-- our experts section --}}
-            @include('components.our-experts')
+            @include('components.ourexperts-section')
 
             {{-- our special offer section --}}
             @include('components.specialoffer-section')
@@ -42,8 +42,6 @@
 
              {{-- our testimonial section --}}
             @include('components.ourtestimonial-section')
-
-
 
             {{-- <!-- CONTACT US SECTION END  -->
 			<div class="section-full p-t100 p-b70">
@@ -156,13 +154,8 @@
             <!-- CONTACT US OFFER SECTION END  --> --}}
 
             {{-- our projects --}}
+            @include('components.project-section')
 
         </div>
         <!-- CONTENT END -->
 @endsection
-
-{{-- @push('scripts')
-    <!-- REVOLUTION SCRIPT -->
-    <script src="{{ asset('assets/js/rev-script-1.js') }}"></script>
-
-@endpush --}}
