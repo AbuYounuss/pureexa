@@ -1,6 +1,5 @@
-<!-- REVOLUTION SLIDER FUNCTION FOR HOME PAGE STYLE 1 ===== -->
-   var tpj=jQuery;
-			
+var tpj=jQuery;
+
 			var revapi1050;
 			tpj(document).ready(function() {
 				if(tpj("#rev_slider_1050_1").revolution == undefined){
@@ -8,7 +7,7 @@
 				}else{
 					revapi1050 = tpj("#rev_slider_1050_1").show().revolution({
 						sliderType:"standard",
-jsFileLocation:"revolution/js/",
+jsFileLocation:"assets/plugins/revolution/revolution/js/",
 						sliderLayout:"fullscreen",
 						dottedOverlay:"none",
 						delay:9000,
@@ -28,8 +27,8 @@ jsFileLocation:"revolution/js/",
 							 arrows: {
 								enable: true,
 								style: 'gyges',
-								
-							 },					
+
+							 },
 							bullets: {
 								enable: true,
 								hide_onmobile: true,
@@ -43,7 +42,7 @@ jsFileLocation:"revolution/js/",
 								v_offset: 15,
 								space: 10,
 								tmp: '<span class="tp-bullet-image"></span><span class="tp-bullet-imageoverlay"></span><span class="tp-bullet-title">{{title}}</span>'
-							}						
+							}
 						},
 						responsiveLevels:[1240,1024,778,480],
 						visibilityLevels:[1240,1024,778,480],
@@ -76,4 +75,3 @@ jsFileLocation:"revolution/js/",
 				}
 			}); /*ready END*/
 
-<!-- REVOLUTION SLIDER FUNCTION FOR HOME PAGE STYLE 1 END  ===== -->

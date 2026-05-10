@@ -1,4 +1,3 @@
-<!-- REVOLUTION SLIDER FUNCTION FOR HOME PAGE STYLE 3  ===== -->
 
 var tpj = jQuery;
 
@@ -97,6 +96,5 @@ tpj(document).ready(function() {
             revapi1077.revaddcallback(newCall);
         });
     }
-}); 
-                    
-<!-- REVOLUTION SLIDER FUNCTION FOR HOME PAGE STYLE 3 END  ===== -->
+});
+
