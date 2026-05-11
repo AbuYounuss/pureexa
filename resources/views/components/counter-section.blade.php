@@ -8,10 +8,10 @@
                             <div class="col-md-3 col-sm-6">
                             	<div class="wt-icon-box-wraper right p-a10 text-white m-b30">
                                     <span class="icon-md p-t10">
-                                        <i class="fa fa-building"></i>
+                                        <i class="fa fa-smile"></i>
                                     </span>
                                     <div class="icon-content">
-                                        <div class="font-26 font-weight-800  m-b5"><span class="counter">1000</span><b>+</b></div>
+                                        <div class="font-26 font-weight-800  m-b5"><span class="counter">5000</span><b>+</b></div>
                                         <span class="text-uppercase">Happy Clients</span>
                                     </div>
                                 </div>
@@ -20,11 +20,11 @@
                             <div class="col-md-3 col-sm-6">
                                 <div class="wt-icon-box-wraper right p-a10 text-white m-b30">
                                     <span class="icon-md p-t10">
-                                    	<i class="fa fa-users"></i>
+                                    	<i class="fa fa-calendar-check"></i>
                                     </span>
                                     <div class="icon-content">
-                                        <div class="font-26 font-weight-800  m-b5"><span class="counter">1500</span><b>+</b></div>
-                                        <span>HAPPY CLIENTS</span>
+                                        <div class="font-26 font-weight-800  m-b5"><span class="counter">15</span><b>+</b></div>
+                                        <span class="text-uppercase">Years Experience</span>
                                     </div>
                                 </div>
                             </div>
@@ -32,11 +32,11 @@
                             <div class="col-md-3 col-sm-6">
                                 <div class="wt-icon-box-wraper right p-a10 text-white m-b30">
                                     <span class="icon-md p-t10">
-                                    	<i class="fa fa-user-plus"></i>
+                                    	<i class="fa fa-user-tie"></i>
                                     </span>
                                     <div class="icon-content">
-                                        <div class="counter font-26 font-weight-800 m-b5">4500</div>
-                                        <span>WORKERS EMPLOYED</span>
+                                        <div class="counter font-26 font-weight-800 m-b5">50</div>
+                                        <span class="text-uppercase">Expert Specialists</span>
                                     </div>
                                 </div>
                             </div>
@@ -47,8 +47,8 @@
                                     	<i class="fa fa-trophy"></i>
                                     </span>
                                     <div class="icon-content">
-                                        <div class="counter font-26 font-weight-800 m-b5">260</div>
-                                        <span>AWARDS WON</span>
+                                        <div class="counter font-26 font-weight-800 m-b5">20</div>
+                                        <span class="text-uppercase">Awards Won</span>
                                     </div>
                                 </div>
                             </div>

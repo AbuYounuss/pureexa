@@ -5,8 +5,8 @@
                 <div class="container">
                     <div class="wt-topbar-right">
                         <ul class="list-unstyled e-p-bx">
-                            <li><i class="fa fa-envelope"></i>mail@thewebmax.com</li>
-                            <li><i class="fa fa-phone"></i>(654) 321-7654</li>
+                            <li><i class="fa fa-envelope"></i>info@pureexa.com</li>
+                            <li><i class="fa fa-phone"></i>+77 634 545 144</li>
                         </ul>
                         <ul class="social-bx list-inline">
                             <li><a href="https://www.facebook.com/" class="fa-brands fa-facebook-f"></a></li>

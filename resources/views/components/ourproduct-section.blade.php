@@ -18,43 +18,28 @@
                         <div class="row d-flex justify-content-center">
 
                             <!-- COLUMNS 1 -->
-                            <div class="col-lg-4 col-md-4 col-sm-6 m-b30 m-b30">
-                                <div class="wt-box">
-                                    <div class="wt-media site-text-primary m-b20 radius-bx circle-effect-1">
-                                        <img src="{{ asset('assets/images/products/pic-8.jpg') }}" class="radius-bx"  alt="">
-                                    </div>
-                                    <div class="wt-info p-t30 text-center">
-                                	<h2>Herbal Massage Soap</h2>
-                                    <p class="site-text-primary">$24.99</p>
-                                    <a href="#" class="site-button text-uppercase radius-sm font-weight-700 button-lg">Add to cart</a>
-                                    </div>
-                                </div>
+                            <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
+                                <x-product-card 
+                                    image="{{ asset('assets/images/products/pic-8.jpg') }}"
+                                    title="Herbal Massage Soap"
+                                    price="$24.99"
+                                />
                             </div>
                             <!-- COLUMNS 2 -->
-                            <div class="col-lg-4 col-md-4 col-sm-6 m-b30 m-b30">
-                                <div class="wt-box">
-                                    <div class="wt-media site-text-primary m-b20 radius-bx circle-effect-1">
-                                        <img src="{{ asset('assets/images/products/pic-2.jpg') }}" class="radius-bx"  alt="">
-                                    </div>
-                                    <div class="wt-info p-t30 text-center">
-                                	<h2>Flawless Glow Foundation</h2>
-                                    <p class="site-text-primary">$49.99</p>
-                                    <a href="#" class="site-button text-uppercase radius-sm font-weight-700 button-lg">Add to cart</a>
-                                    </div>
-                                </div>
+                            <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
+                                <x-product-card 
+                                    image="{{ asset('assets/images/products/pic-2.jpg') }}"
+                                    title="Flawless Glow Foundation"
+                                    price="$49.99"
+                                />
                             </div>
                             <!-- COLUMNS 3 -->
-                            <div class="col-lg-4 col-md-4 col-sm-6 m-b30 m-b30">
-                                <div class="wt-box">
-                                    <div class="wt-media site-text-primary m-b20 radius-bx circle-effect-1">
-                                        <img src="{{ asset('assets/images/products/pic-9.jpg') }}" class="radius-bx"  alt="">
-                                    </div>
-                                    <div class="wt-info p-t30 text-center">
-                                	<h2>Aromatherapy Massage Oil</h2>
-                                    <p class="site-text-primary">$39.99</p>
-                                    <a href="#" class="site-button text-uppercase radius-sm font-weight-700 button-lg">Add to cart</a>
-                                    </div>
-                                </div>
+                            <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
+                                <x-product-card 
+                                    image="{{ asset('assets/images/products/pic-9.jpg') }}"
+                                    title="Aromatherapy Massage Oil"
+                                    price="$39.99"
+                                />
                             </div>
 
 

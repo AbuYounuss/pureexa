@@ -27,43 +27,31 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-md-6 m-b30">
-                        <div class="wt-box bg-white p-a20 text-center shadow-sm hover-border-primary border-1">
-                            <div class="wt-media m-b20">
-                                <img src="{{ asset('assets/images/brandProduct/ordinary/ordinary1.png') }}" alt="ordinary1" style="height: 250px; width: 100%; object-fit: contain;">
-                            </div>
-                            <div class="wt-info">
-                                <h4 class="wt-title m-b5"><a href="{{ url('/brand/ordinary') }}">ordinary1</a></h4>
-                                <p class="text-gray-dark font-12">High-quality skincare formulated with effective ingredients.</p>
-                                <p class="site-text-primary font-weight-700 h5 m-b15">$15.99</p>
-                                <a href="#" class="site-button text-uppercase radius-sm btn-block">Add to cart</a>
-                            </div>
-                        </div>
+                        <x-product-card 
+                            image="{{ asset('assets/images/brandProduct/ordinary/ordinary1.png') }}"
+                            title="ordinary1"
+                            url="{{ url('/brand/ordinary') }}"
+                            desc="High-quality skincare formulated with effective ingredients."
+                            price="$15.99"
+                        />
                     </div>
                     <div class="col-lg-4 col-md-6 m-b30">
-                        <div class="wt-box bg-white p-a20 text-center shadow-sm hover-border-primary border-1">
-                            <div class="wt-media m-b20">
-                                <img src="{{ asset('assets/images/brandProduct/ordinary/ordinary2.png') }}" alt="ordinary2" style="height: 250px; width: 100%; object-fit: contain;">
-                            </div>
-                            <div class="wt-info">
-                                <h4 class="wt-title m-b5"><a href="{{ url('/brand/ordinary') }}">ordinary2</a></h4>
-                                <p class="text-gray-dark font-12">Targeted treatments for healthy, glowing skin.</p>
-                                <p class="site-text-primary font-weight-700 h5 m-b15">$18.50</p>
-                                <a href="#" class="site-button text-uppercase radius-sm btn-block">Add to cart</a>
-                            </div>
-                        </div>
+                        <x-product-card 
+                            image="{{ asset('assets/images/brandProduct/ordinary/ordinary2.png') }}"
+                            title="ordinary2"
+                            url="{{ url('/brand/ordinary') }}"
+                            desc="Targeted treatments for healthy, glowing skin."
+                            price="$18.50"
+                        />
                     </div>
                     <div class="col-lg-4 col-md-6 m-b30">
-                        <div class="wt-box bg-white p-a20 text-center shadow-sm hover-border-primary border-1">
-                            <div class="wt-media m-b20">
-                                <img src="{{ asset('assets/images/brandProduct/ordinary/ordinary3.png') }}" alt="ordinary3" style="height: 250px; width: 100%; object-fit: contain;">
-                            </div>
-                            <div class="wt-info">
-                                <h4 class="wt-title m-b5"><a href="{{ url('/brand/ordinary') }}">ordinary3</a></h4>
-                                <p class="text-gray-dark font-12">Science-backed beauty solutions at an affordable price.</p>
-                                <p class="site-text-primary font-weight-700 h5 m-b15">$12.99</p>
-                                <a href="#" class="site-button text-uppercase radius-sm btn-block">Add to cart</a>
-                            </div>
-                        </div>
+                        <x-product-card 
+                            image="{{ asset('assets/images/brandProduct/ordinary/ordinary3.png') }}"
+                            title="ordinary3"
+                            url="{{ url('/brand/ordinary') }}"
+                            desc="Science-backed beauty solutions at an affordable price."
+                            price="$12.99"
+                        />
                     </div>
                 </div>
             </div>
@@ -79,43 +67,31 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-md-6 m-b30">
-                        <div class="wt-box bg-white p-a20 text-center shadow-sm hover-border-primary border-1">
-                            <div class="wt-media m-b20">
-                                <img src="{{ asset('assets/images/brandProduct/cerave/ceraveBabyScreencareLotion.png') }}" alt="ceraveBabyScreencareLotion" style="height: 250px; width: 100%; object-fit: contain;">
-                            </div>
-                            <div class="wt-info">
-                                <h4 class="wt-title m-b5"><a href="{{ url('/brand/cerave') }}">ceraveBabyScreencareLotion</a></h4>
-                                <p class="text-gray-dark font-12">Gentle care for your baby's delicate skin barrier.</p>
-                                <p class="site-text-primary font-weight-700 h5 m-b15">$22.00</p>
-                                <a href="#" class="site-button text-uppercase radius-sm btn-block">Add to cart</a>
-                            </div>
-                        </div>
+                        <x-product-card 
+                            image="{{ asset('assets/images/brandProduct/cerave/ceraveBabyScreencareLotion.png') }}"
+                            title="ceraveBabyScreencareLotion"
+                            url="{{ url('/brand/cerave') }}"
+                            desc="Gentle care for your baby's delicate skin barrier."
+                            price="$22.00"
+                        />
                     </div>
                     <div class="col-lg-4 col-md-6 m-b30">
-                        <div class="wt-box bg-white p-a20 text-center shadow-sm hover-border-primary border-1">
-                            <div class="wt-media m-b20">
-                                <img src="{{ asset('assets/images/brandProduct/cerave/ceraveHydratingAcideSerum.png') }}" alt="ceraveHydratingAcideSerum" style="height: 250px; width: 100%; object-fit: contain;">
-                            </div>
-                            <div class="wt-info">
-                                <h4 class="wt-title m-b5"><a href="{{ url('/brand/cerave') }}">ceraveHydratingAcideSerum</a></h4>
-                                <p class="text-gray-dark font-12">Intense hydration with hyaluronic acid and essential ceramides.</p>
-                                <p class="site-text-primary font-weight-700 h5 m-b15">$25.99</p>
-                                <a href="#" class="site-button text-uppercase radius-sm btn-block">Add to cart</a>
-                            </div>
-                        </div>
+                        <x-product-card 
+                            image="{{ asset('assets/images/brandProduct/cerave/ceraveHydratingAcideSerum.png') }}"
+                            title="ceraveHydratingAcideSerum"
+                            url="{{ url('/brand/cerave') }}"
+                            desc="Intense hydration with hyaluronic acid and essential ceramides."
+                            price="$25.99"
+                        />
                     </div>
                     <div class="col-lg-4 col-md-6 m-b30">
-                        <div class="wt-box bg-white p-a20 text-center shadow-sm hover-border-primary border-1">
-                            <div class="wt-media m-b20">
-                                <img src="{{ asset('assets/images/brandProduct/cerave/ceraveHydratingfamingOilCleanser.png') }}" alt="ceraveHydratingfamingOilCleanser" style="height: 250px; width: 100%; object-fit: contain;">
-                            </div>
-                            <div class="wt-info">
-                                <h4 class="wt-title m-b5"><a href="{{ url('/brand/cerave') }}">ceraveHydratingfamingOilCleanser</a></h4>
-                                <p class="text-gray-dark font-12">Cleanses and hydrates with a unique foaming oil formula.</p>
-                                <p class="site-text-primary font-weight-700 h5 m-b15">$20.50</p>
-                                <a href="#" class="site-button text-uppercase radius-sm btn-block">Add to cart</a>
-                            </div>
-                        </div>
+                        <x-product-card 
+                            image="{{ asset('assets/images/brandProduct/cerave/ceraveHydratingfamingOilCleanser.png') }}"
+                            title="ceraveHydratingfamingOilCleanser"
+                            url="{{ url('/brand/cerave') }}"
+                            desc="Cleanses and hydrates with a unique foaming oil formula."
+                            price="$20.50"
+                        />
                     </div>
                 </div>
             </div>
@@ -131,43 +107,31 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-md-6 m-b30">
-                        <div class="wt-box bg-white p-a20 text-center shadow-sm hover-border-primary border-1">
-                            <div class="wt-media m-b20">
-                                <img src="{{ asset('assets/images/brandProduct/cetaphil/cataphilBabyOil.png') }}" alt="cataphilBabyOil" style="height: 250px; width: 100%; object-fit: contain;">
-                            </div>
-                            <div class="wt-info">
-                                <h4 class="wt-title m-b5"><a href="{{ url('/brand/cetaphil') }}">cataphilBabyOil</a></h4>
-                                <p class="text-gray-dark font-12">Soothes and protects your baby's skin from dryness.</p>
-                                <p class="site-text-primary font-weight-700 h5 m-b15">$14.99</p>
-                                <a href="#" class="site-button text-uppercase radius-sm btn-block">Add to cart</a>
-                            </div>
-                        </div>
+                        <x-product-card 
+                            image="{{ asset('assets/images/brandProduct/cetaphil/cataphilBabyOil.png') }}"
+                            title="cataphilBabyOil"
+                            url="{{ url('/brand/cetaphil') }}"
+                            desc="Soothes and protects your baby's skin from dryness."
+                            price="$14.99"
+                        />
                     </div>
                     <div class="col-lg-4 col-md-6 m-b30">
-                        <div class="wt-box bg-white p-a20 text-center shadow-sm hover-border-primary border-1">
-                            <div class="wt-media m-b20">
-                                <img src="{{ asset('assets/images/brandProduct/cetaphil/cataphiloilySkinCleanser.png') }}" alt="cataphiloilySkinCleanser" style="height: 250px; width: 100%; object-fit: contain;">
-                            </div>
-                            <div class="wt-info">
-                                <h4 class="wt-title m-b5"><a href="{{ url('/brand/cetaphil') }}">cataphiloilySkinCleanser</a></h4>
-                                <p class="text-gray-dark font-12">Deep cleans oily and combination skin without drying it out.</p>
-                                <p class="site-text-primary font-weight-700 h5 m-b15">$16.50</p>
-                                <a href="#" class="site-button text-uppercase radius-sm btn-block">Add to cart</a>
-                            </div>
-                        </div>
+                        <x-product-card 
+                            image="{{ asset('assets/images/brandProduct/cetaphil/cataphiloilySkinCleanser.png') }}"
+                            title="cataphiloilySkinCleanser"
+                            url="{{ url('/brand/cetaphil') }}"
+                            desc="Deep cleans oily and combination skin without drying it out."
+                            price="$16.50"
+                        />
                     </div>
                     <div class="col-lg-4 col-md-6 m-b30">
-                        <div class="wt-box bg-white p-a20 text-center shadow-sm hover-border-primary border-1">
-                            <div class="wt-media m-b20">
-                                <img src="{{ asset('assets/images/brandProduct/cetaphil/cataphilPoreClearingAcneCleanser.png') }}" alt="cataphilPoreClearingAcneCleanser" style="height: 250px; width: 100%; object-fit: contain;">
-                            </div>
-                            <div class="wt-info">
-                                <h4 class="wt-title m-b5"><a href="{{ url('/brand/cetaphil') }}">cataphilPoreClearingAcneCleanser</a></h4>
-                                <p class="text-gray-dark font-12">Clears breakouts and prevents new acne from forming.</p>
-                                <p class="site-text-primary font-weight-700 h5 m-b15">$19.99</p>
-                                <a href="#" class="site-button text-uppercase radius-sm btn-block">Add to cart</a>
-                            </div>
-                        </div>
+                        <x-product-card 
+                            image="{{ asset('assets/images/brandProduct/cetaphil/cataphilPoreClearingAcneCleanser.png') }}"
+                            title="cataphilPoreClearingAcneCleanser"
+                            url="{{ url('/brand/cetaphil') }}"
+                            desc="Clears breakouts and prevents new acne from forming."
+                            price="$19.99"
+                        />
                     </div>
                 </div>
             </div>

@@ -2,6 +2,17 @@
 
 @section('title', 'Service Details - Pureexa')
 
+@push('styles')
+<style>
+    .ow-post-title {
+        min-height: 50px;
+    }
+    .ow-post-text {
+        min-height: 70px;
+    }
+</style>
+@endpush
+
 @section('content')
 
 @php
@@ -18,28 +29,28 @@
         'head-massage' => [
             'title' => 'Head Massage',
             'image' => 'assets/images/our-services/large/s4.jpg',
-            'desc' => 'Experience deep relaxation with our soothing head massage that stimulates circulation, promotes hair growth, and melts away everyday anxiety.',
+            'desc' => 'Experience deep relaxation with our soothing head massage that stimulates circulation and promotes mental clarity, leaving you refreshed and rejuvenated.',
             'time' => '30 Mins',
             'price' => '$18'
         ],
         'body-scrub' => [
             'title' => 'Body Scrub',
             'image' => 'assets/images/our-services/large/s2.jpg',
-            'desc' => 'Exfoliate and nourish your skin with our organic body scrubs, leaving your skin feeling silky smooth, glowing, and refreshed with natural minerals.',
+            'desc' => 'Exfoliate and nourish your skin with our organic body scrubs, leaving your skin feeling silky smooth, glowing, and refreshed with natural minerals<br> and essential oils.',
             'time' => '60 Mins',
             'price' => '$42'
         ],
         'aromatherapy' => [
             'title' => 'Aromatherapy Massage',
             'image' => 'assets/images/our-services/large/s5.jpg',
-            'desc' => 'Enhance your physical and emotional health with our aromatherapy massage using premium essential oils tailored to your specific wellness needs.',
+            'desc' => 'Enhance your physical and emotional health with our aromatherapy massage using premium essential oils.',
             'time' => '60 Mins',
             'price' => '$45'
         ],
         'face-massage' => [
             'title' => 'Face Massage',
             'image' => 'assets/images/our-services/large/s1.jpg',
-            'desc' => 'Relax and rejuvenate your facial muscles with our therapeutic massage techniques for a glowing complexion and better skin health through improved circulation.',
+            'desc' => 'Relax and rejuvenate your facial muscles with our therapeutic massage techniques for a glowing complexion and reduced tension.',
             'time' => '30 Mins',
             'price' => '$24'
         ],

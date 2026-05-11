@@ -101,7 +101,7 @@
                                     </div>
                                     <div class="icon-content">
                                         <h4 class="wt-tilte text-uppercase m-b0">Address</h4>
-                                        <p>123 Beauty Lane, Glow City, Skin State 54321</p>
+                                        <p>295 Madison Ave, 12th Floor New York, NY 10017</p>
                                     </div>
                                 </div>
                                 <div class="wt-icon-box-wraper left m-b30">
@@ -119,7 +119,7 @@
                                     </div>
                                     <div class="icon-content">
                                         <h4 class="wt-tilte text-uppercase m-b0">Phone</h4>
-                                        <p>(654) 321-7654</p>
+                                        <p>+77 634 545 144</p>
                                     </div>
                                 </div>
                             </div>

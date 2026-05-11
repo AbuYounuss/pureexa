@@ -78,6 +78,11 @@
                     <div class="cssload-progress-item"></div>
                 </div>
             </div>
+            <div class="loading-text" style="position: absolute; top: calc(50% + 70px); left: 50%; transform: translateX(-50%); text-align: center; width: 100%;">
+                <h1 style="font-family: 'Poppins', sans-serif; color: #EC5598; font-weight: 700; letter-spacing: 10px; text-transform: uppercase; margin: 0; font-size: 28px; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">Pureexa</h1>
+                <div style="width: 40px; height: 2px; background: #EC5598; margin: 10px auto;"></div>
+                <p style="font-family: 'Poppins', sans-serif; color: #666; font-size: 11px; letter-spacing: 4px; text-transform: uppercase; margin: 0; font-weight: 500;">Health & Beauty Spa</p>
+            </div>
         </div>
     </div>
     <!-- LOADING AREA END -->

@@ -47,11 +47,10 @@
                                             <span class="separator-right site-bg-primary"></span>
                                         </div>
                                     </div>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                      Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown  galley.
+                                    <p>Pureexa Health Spa & Beauty is your ultimate sanctuary for relaxation and rejuvenation. We offer a holistic approach to wellness, combining traditional techniques with modern aesthetics to help you look and feel your best. Our mission is to provide an unparalleled spa experience that heals the mind, body, and soul.
                                     </p>
                                     <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged. It was popularised in the with the .
+                                    At Pureexa, we believe that true beauty comes from within. Our team of dedicated professionals is committed to providing personalized care in a tranquil environment, ensuring that every visit leaves you feeling refreshed, renewed, and completely pampered.
                                     </p>
                                 </div>
                                 <div class="about-types row">
@@ -62,7 +61,7 @@
                                             </div>
                                             <div class="icon-content">
                                                 <h3 class="wt-tilte text-uppercase m-b0">Waxing</h3>
-                                                <p>Lorem ipsum dolor sit piscing sed diam nonmy end .</p>
+                                                <p>Professional and gentle waxing services for smooth, radiant skin.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -73,7 +72,7 @@
                                             </div>
                                             <div class="icon-content">
                                                 <h3 class="wt-tilte text-uppercase m-b0">Hair Makeup</h3>
-                                                <p>Lorem ipsum dolor sit piscing sed diam nonmy end .</p>
+                                                <p>Expert styling and makeup services tailored to your unique beauty.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -84,7 +83,7 @@
                                             </div>
                                             <div class="icon-content">
                                                 <h3 class="wt-tilte text-uppercase m-b0 ">Facial</h3>
-                                                <p>Lorem ipsum dolor sit piscing sed diam nonmy end .</p>
+                                                <p>Revitalizing facial treatments using premium natural ingredients.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -95,7 +94,7 @@
                                             </div>
                                             <div class="icon-content">
                                                 <h3 class="wt-tilte text-uppercase m-b0">Massage</h3>
-                                                <p>Lorem ipsum dolor sit piscing sed diam nonmy end .</p>
+                                                <p>Therapeutic massages designed to melt away stress and tension.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -133,11 +132,11 @@
                             <div class="col-lg-4 col-md-6 col-sm-6 m-b30 animate_line">
                                 <div class="wt-icon-box-wraper  p-a30 center bg-white m-a5">
                                     <div class="icon-md site-text-primary m-b20">
-                                        <a href="#" class="icon-cell"><i class="flaticon-cosmetics" aria-hidden="true"></i></a>
+                                        <a href="#" class="icon-cell"><i class="flaticon-spray-bottle" aria-hidden="true"></i></a>
                                     </div>
                                     <div class="icon-content">
-                                        <h3 class="wt-tilte text-uppercase">Steam Bath</h3>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesg indtrysum has been the Ipsum dummy of the printing indus .</p>
+                                        <h3 class="wt-tilte text-uppercase">Back Massage</h3>
+                                        <p>Relieve muscle tension and improve circulation with our specialized back massage techniques.</p>
                                     </div>
                                 </div>
                             </div>
@@ -145,11 +144,11 @@
                             <div class="col-lg-4 col-md-6 col-sm-6 m-b30 animate_line">
                                 <div class="wt-icon-box-wraper  p-a30 center bg-white m-a5">
                                     <div class="icon-md site-text-primary m-b20">
-                                        <a href="#" class="icon-cell"><i class="flaticon-blush"></i></a>
+                                        <a href="#" class="icon-cell"><i class="flaticon-combs"></i></a>
                                     </div>
                                     <div class="icon-content ">
-                                        <h3 class="wt-tilte text-uppercase">Herbal & Natural</h3>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesg indtrysum has been the Ipsum dummy of the printing indus .</p>
+                                        <h3 class="wt-tilte text-uppercase">Head Massage</h3>
+                                        <p>A soothing head massage to reduce stress, alleviate headaches, and promote deep relaxation.</p>
                                     </div>
                                 </div>
                             </div>
@@ -157,11 +156,11 @@
                             <div class="col-lg-4 col-md-6 col-sm-6 m-b30 animate_line">
                                 <div class="wt-icon-box-wraper  p-a30 center bg-white m-a5">
                                     <div class="icon-md site-text-primary m-b20">
-                                        <a href="#" class="icon-cell"><i class="flaticon-combs"></i></a>
+                                        <a href="#" class="icon-cell"><i class="flaticon-cosmetics"></i></a>
                                     </div>
                                     <div class="icon-content">
-                                        <h3 class="wt-tilte text-uppercase">Trained Professionals</h3>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesg indtrysum has been the Ipsum dummy of the printing indus .</p>
+                                        <h3 class="wt-tilte text-uppercase">Beauty Spa</h3>
+                                        <p>Comprehensive beauty treatments that enhance your natural charm and leave you glowing.</p>
                                     </div>
                                 </div>
                             </div>
@@ -169,11 +168,11 @@
                             <div class="col-lg-4 col-md-6 col-sm-6 m-b30 animate_line">
                                 <div class="wt-icon-box-wraper  p-a30 center bg-white m-a5">
                                     <div class="icon-md site-text-primary m-b20">
-                                        <a href="#" class="icon-cell"><i class="flaticon-bronzer"></i></a>
+                                        <a href="#" class="icon-cell"><i class="flaticon-mirror"></i></a>
                                     </div>
                                     <div class="icon-content">
-                                        <h3 class="wt-tilte text-uppercase">Naturally Spa</h3>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesg indtrysum has been the Ipsum dummy of the printing indus .</p>
+                                        <h3 class="wt-tilte text-uppercase">Facial Spa</h3>
+                                        <p>Targeted facial therapies designed to rejuvenate your skin and provide a youthful radiance.</p>
                                     </div>
                                 </div>
                             </div>
@@ -181,11 +180,11 @@
                             <div class="col-lg-4 col-md-6 col-sm-6 m-b30 animate_line">
                                 <div class="wt-icon-box-wraper  p-a30 center bg-white m-a5">
                                     <div class="icon-md site-text-primary m-b20">
-                                        <a href="#" class="icon-cell"><i class="flaticon-hair-dryer"></i></a>
+                                        <a href="#" class="icon-cell"><i class="flaticon-blush"></i></a>
                                     </div>
                                     <div class="icon-content">
-                                        <h3 class="wt-tilte text-uppercase">Effective Treatments</h3>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesg indtrysum has been the Ipsum dummy of the printing indus .</p>
+                                        <h3 class="wt-tilte text-uppercase">Skin Care</h3>
+                                        <p>Expert skin care solutions using organic products to nourish, protect, and revitalize your complexion.</p>
                                     </div>
                                 </div>
                             </div>
@@ -196,8 +195,8 @@
                                         <a href="#" class="icon-cell"><i class="flaticon-spa"></i></a>
                                     </div>
                                     <div class="icon-content">
-                                        <h3 class="wt-tilte text-uppercase">AESTHETICS</h3>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesg indtrysum has been the Ipsum dummy of the printing indus .</p>
+                                        <h3 class="wt-tilte text-uppercase">Steam Bath</h3>
+                                        <p>Experience deep detoxification and total relaxation in our state-of-the-art steam facilities.</p>
                                     </div>
                                 </div>
                             </div>
@@ -225,8 +224,7 @@
                                         <span class="separator-right site-bg-primary"></span>
                                     </div>
                                 </div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever
-                                since the 1500s, when an unknown printer took a galley.</p>
+                                <p>Meet our team of highly skilled therapists and stylists, each passionate about delivering exceptional beauty and wellness experiences tailored to your needs.</p>
                             </div>
                             <!-- TITLE END -->
                         </div>
@@ -241,18 +239,11 @@
                                         </div>
                                         <div class="wt-team-info">
                                             <div class="wt-team-skew-block">
-                                                {{-- <div class="social-icons-outer p-a20">
-                                                    <ul class="social-icons social-square social-dark white-border m-b0">
-                                                        <li><a href="https://www.facebook.com/" class="fa-brands fa-facebook-f"></a></li>
-                                                        <li><a href="https://x.com/" class="fa-brands fa-x-twitter"></a></li>
-                                                        <li><a href="https://www.linkedin.com/" class="fa-brands fa-linkedin-in"></a></li>
-                                                        <li><a href="https://www.pinterest.com/" class="fa-brands fa-pinterest-p"></a></li>
-                                                    </ul>
-                                                </div> --}}
+
                                              </div>
                                              <div class="p-a20">
-                                                <h4 class="wt-team-title text-uppercase"><a href="our-team-detail.html">Richard Wagner</a></h4>
-                                                <p>Beauty Therapist</p>
+                                                <h4 class="wt-team-title text-uppercase"><a href="#">Elena Rodriguez</a></h4>
+                                                <p>Senior Esthetician</p>
                                             </div>
                                         </div>
                                     </div>
@@ -261,22 +252,15 @@
                                 <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                                     <div class="wt-team-four">
                                         <div class="wt-team-media">
-                                            <a href="our-team-detail.html"><img src="{{ asset('assets/images/our-team/team2.png') }}" alt="" ></a>
+                                            <a href="#"><img src="{{ asset('assets/images/our-team/team2.png') }}" alt="" ></a>
                                         </div>
                                         <div class="wt-team-info">
                                             <div class="wt-team-skew-block">
-                                                {{-- <div class="social-icons-outer p-a20">
-                                                    <ul class="social-icons social-square social-dark white-border m-b0">
-                                                        <li><a href="https://www.facebook.com/" class="fa-brands fa-facebook-f"></a></li>
-                                                        <li><a href="https://x.com/" class="fa-brands fa-x-twitter"></a></li>
-                                                        <li><a href="https://www.linkedin.com/" class="fa-brands fa-linkedin-in"></a></li>
-                                                        <li><a href="https://www.pinterest.com/" class="fa-brands fa-pinterest-p"></a></li>
-                                                    </ul>
-                                                </div> --}}
+
                                              </div>
                                              <div class="p-a20">
-                                                <h4 class="wt-team-title text-uppercase"><a href="our-team-detail.html">Lisa Anderson</a></h4>
-                                                <p>Beauty Therapist</p>
+                                                <h4 class="wt-team-title text-uppercase"><a href="#">Sarah Jenkins</a></h4>
+                                                <p>Lead Massage Specialist</p>
                                             </div>
                                       </div>
                                     </div>
@@ -285,22 +269,15 @@
                                 <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                                     <div class="wt-team-four">
                                         <div class="wt-team-media">
-                                            <a href="our-team-detail.html"><img src="{{ asset('assets/images/our-team/team3.png') }}" alt="" ></a>
+                                            <a href="#"><img src="{{ asset('assets/images/our-team/team3.png') }}" alt="" ></a>
                                         </div>
                                         <div class="wt-team-info">
                                             <div class="wt-team-skew-block">
-                                                {{-- <div class="social-icons-outer p-a20">
-                                                    <ul class="social-icons social-square social-dark white-border m-b0">
-                                                        <li><a href="https://www.facebook.com/" class="fa-brands fa-facebook-f"></a></li>
-                                                        <li><a href="https://x.com/" class="fa-brands fa-x-twitter"></a></li>
-                                                        <li><a href="https://www.linkedin.com/" class="fa-brands fa-linkedin-in"></a></li>
-                                                        <li><a href="https://www.pinterest.com/" class="fa-brands fa-pinterest-p"></a></li>
-                                                    </ul>
-                                                </div> --}}
+
                                              </div>
                                              <div class="p-a20">
-                                                <h4 class="wt-team-title text-uppercase"><a href="our-team-detail.html">Tommy Atkins</a></h4>
-                                                <p>Beauty Therapist</p>
+                                                <h4 class="wt-team-title text-uppercase"><a href="#">Michael Chen</a></h4>
+                                                <p>Wellness Consultant</p>
                                             </div>
                                       </div>
                                     </div>
@@ -309,22 +286,15 @@
                                 <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                                     <div class="wt-team-four">
                                         <div class="wt-team-media">
-                                            <a href="our-team-detail.html"><img src="{{ asset('assets/images/our-team/team4.png') }}" alt="" ></a>
+                                            <a href="#"><img src="{{ asset('assets/images/our-team/team4.png') }}" alt="" ></a>
                                         </div>
                                         <div class="wt-team-info">
                                             <div class="wt-team-skew-block">
-                                                {{-- <div class="social-icons-outer p-a20">
-                                                    <ul class="social-icons social-square social-dark white-border m-b0">
-                                                        <li><a href="https://www.facebook.com/" class="fa-brands fa-facebook-f"></a></li>
-                                                        <li><a href="https://x.com/" class="fa-brands fa-x-twitter"></a></li>
-                                                        <li><a href="https://www.linkedin.com/" class="fa-brands fa-linkedin-in"></a></li>
-                                                        <li><a href="https://www.pinterest.com/" class="fa-brands fa-pinterest-p"></a></li>
-                                                    </ul>
-                                                </div> --}}
+
                                              </div>
                                              <div class="p-a20">
-                                                <h4 class="wt-team-title text-uppercase"><a href="our-team-detail.html">John Halpern</a></h4>
-                                                <p>Beauty Therapist</p>
+                                                <h4 class="wt-team-title text-uppercase"><a href="#">Aria Montgomery</a></h4>
+                                                <p>Creative Hair Stylist</p>
                                             </div>
                                       </div>
                                     </div>

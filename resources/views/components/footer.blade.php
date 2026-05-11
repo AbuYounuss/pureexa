@@ -39,64 +39,63 @@
                             <div class="widget widget_about">
                                 <h4 class="widget-title">About Company</h4>
                                 <div class="logo-footer clearfix p-b15">
-                                    <a href="index.html"><img src="{{ asset('images/logo.png') }}" width="230" height="67" alt=""></a>
+                                    <a href="{{ url('/') }}"><img src="{{ asset('assets/images/logo.png') }}" width="230" height="67" alt=""></a>
                                 </div>
-                                <p>Thewebmax ipsum dolor sit amet, interior adipiscing elit, sed diam nonummy nibh is euismod tincidunt ut laoreet dolore are agna aliquam erat. wisi enim ad minim veniam, quis tation. sit amet, consectet. ipsum dolor sit amet, consectetuer and item adipiscing. ipsum dolor sit.
-                                </p>
-                            </div>
+                                <p>Pureexa is your ultimate sanctuary for wellness and beauty. We integrate traditional rituals with modern aesthetic science to rejuvenate your body, mind, and soul. Experience a world of tranquility and radiant health with us.
+                                </p>                            </div>
                         </div>
-                        <!-- RESENT POST -->
+                        <!-- RECENT POSTS -->
                         <div class="col-lg-3 col-md-6 col-sm-6">
                             <div class="widget recent-posts-entry-date">
-                                <h4 class="widget-title">Resent Post</h4>
+                                <h4 class="widget-title">Recent Posts</h4>
                                 <div class="widget-post-bx">
                                     <div class="bdr-light-blue widget-post clearfix  bdr-b-1 m-b10 p-b10">
                                         <div class="wt-post-date text-center text-uppercase text-white">
-                                            <strong>20</strong>
-                                            <span>Mar</span>
+                                            <strong>15</strong>
+                                            <span>May</span>
                                         </div>
                                         <div class="wt-post-info">
                                             <div class="wt-post-header">
-                                                <h3 class="post-title"><a href="blog-single.html">Blog title first </a></h3>
+                                                <h3 class="post-title"><a href="{{ route('blog-details') }}">The Benefits of Regular Massage</a></h3>
                                             </div>
                                             <div class="wt-post-meta">
                                                 <ul>
                                                     <li class="post-author"><i class="fa fa-user"></i>By Admin</li>
-                                                    <li class="post-comment"><i class="fa fa-comments"></i> 28</li>
+                                                    <li class="post-comment"><i class="fa fa-comments"></i> 12</li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="bdr-light-blue widget-post clearfix  bdr-b-1 m-b10 p-b10">
                                         <div class="wt-post-date text-center text-uppercase text-white">
-                                            <strong>30</strong>
-                                            <span>Mar</span>
+                                            <strong>12</strong>
+                                            <span>May</span>
                                         </div>
                                         <div class="wt-post-info">
                                             <div class="wt-post-header">
-                                                <h3 class="post-title"><a href="blog-single.html">Blog title first </a></h3>
+                                                <h3 class="post-title"><a href="{{ route('blog-details') }}">Top 5 Skin Care Tips for Summer</a></h3>
                                             </div>
                                             <div class="wt-post-meta">
                                                 <ul>
                                                     <li class="post-author"><i class="fa fa-user"></i>By Admin</li>
-                                                    <li class="post-comment"><i class="fa fa-comments"></i> 29</li>
+                                                    <li class="post-comment"><i class="fa fa-comments"></i> 08</li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="bdr-light-blue widget-post clearfix  bdr-b-1 m-b10 p-b10">
                                         <div class="wt-post-date text-center text-uppercase text-white">
-                                            <strong>31</strong>
-                                            <span>Mar</span>
+                                            <strong>10</strong>
+                                            <span>May</span>
                                         </div>
                                         <div class="wt-post-info">
                                             <div class="wt-post-header">
-                                                <h3 class="post-title"><a href="blog-single.html">Blog title first </a></h3>
+                                                <h3 class="post-title"><a href="{{ route('blog-details') }}">Discover the Power of Aromatherapy</a></h3>
                                             </div>
                                             <div class="wt-post-meta">
                                                 <ul>
                                                     <li class="post-author"><i class="fa fa-user"></i>By Admin</li>
-                                                    <li class="post-comment"><i class="fa fa-comments"></i> 30</li>
+                                                    <li class="post-comment"><i class="fa fa-comments"></i> 15</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -109,13 +108,12 @@
                             <div class="widget widget_services">
                                 <h4 class="widget-title">Useful links</h4>
                                 <ul>
-                                    <li><a href="{{ url('/about') }}">About</a></li>
-                                    <li><a href="{{ url('/Pricing') }}">Pricing</a></li>
-                                    <li><a href="{{ url('/services') }}">Services</a></li>
-                                    <li><a href="{{ url('/products') }}">Products</a></li>
+                                    <li><a href="{{ route('about') }}">About</a></li>
+                                    <li><a href="{{ route('pricing') }}">Pricing</a></li>
+                                    <li><a href="{{ route('services') }}">Services</a></li>
+                                    <li><a href="{{ route('products') }}">Products</a></li>
                                     <li><a href="{{ route('terms-conditions') }}">Terms & Condition</a></li>
                                     <li><a href="{{ route('privacy-policy') }}">Privacy Policy</a></li>
-                                    <li><a href="{{ url('/contact') }}">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -156,7 +154,7 @@
                 <div class="container p-t30">
                     <div class="row ftr-btm">
                         <div class="wt-footer-bot-left">
-                            <span class="copyrights-text">© 2026 Your Company. All Rights Reserved. Designed By Thewebmax.</span>
+                            <span class="copyrights-text">© 2026 Pureexa. All Rights Reserved.</span>
                         </div>
                         <div class="wt-footer-bot-right">
                             <ul class="copyrights-nav pull-right">

@@ -2,6 +2,17 @@
 
 @section('title', 'Our Services - Pureexa')
 
+@push('styles')
+<style>
+    .wt-info .wt-title {
+        min-height: 40px;
+    }
+    .wt-info p {
+        min-height: 80px;
+    }
+</style>
+@endpush
+
 @section('content')
     <!-- CONTENT START -->
     <div class="page-content">
