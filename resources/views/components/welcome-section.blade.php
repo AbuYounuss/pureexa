@@ -2,7 +2,7 @@
             <div class="section-full p-t100  p-b70 bg-bottom-center bg-full-width bg-no-repeat" style="background-image:url('{{ asset('assets/images/background/bg-1.png') }}');">
                 <div class="container ">
                     <div class="section-head text-center">
-                        <h2><span class="site-text-primary"> Welcome to </span> Spa center</h2>
+                        <h2><span class="site-text-primary"> Welcome to </span> Pureexa</h2>
                         <div class="wt-separator-outer ">
                             <div class="wt-separator style-icon">
                                 <i class="fa fa-leaf text-black"></i>
@@ -12,14 +12,14 @@
                         </div>
 
                         <p class="font-16"><strong>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at.Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        Discover the true essence of health and beauty at Pureexa. We provide a sanctuary for your mind, body, and soul, offering personalized treatments that elevate your well-being.
                           </strong>
                         </p>
 
                     </div>
                     <div class="section-content text-center about-spa m-b30">
                     	<p>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining unchanged. It was popularised in the 1960s with the release Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.
+                        At Pureexa, our mission is to empower you to look and feel your absolute best. Our team of seasoned professionals uses natural, high-quality products to deliver spa, massage, and cosmetic services that nourish from the outside in. Step into our world and experience a transformative journey towards better health and radiant beauty.
                         </p>
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-4 col-md-6 m-b30">
@@ -29,7 +29,7 @@
                                     </div>
                                     <div class="icon-content">
                                         <h3 class="wt-tilte font-weight-500">Massage Therapy</h3>
-                                        <p class="text-secondry">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        <p class="text-secondry">Experience our top-tier health and beauty treatments.</p>
                                     </div>
                                 </div>
                             </div>
@@ -40,7 +40,7 @@
                                     </div>
                                     <div class="icon-content">
                                         <h3 class="wt-tilte font-weight-500">Natural Spa</h3>
-                                        <p class="text-secondry">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        <p class="text-secondry">Experience our top-tier health and beauty treatments.</p>
                                     </div>
                                 </div>
                             </div>
@@ -51,7 +51,7 @@
                                     </div>
                                     <div class="icon-content">
                                         <h3 class="wt-tilte font-weight-500">Skin & Beauty Care</h3>
-                                        <p class="text-secondry">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        <p class="text-secondry">Experience our top-tier health and beauty treatments.</p>
                                     </div>
                                 </div>
                             </div>

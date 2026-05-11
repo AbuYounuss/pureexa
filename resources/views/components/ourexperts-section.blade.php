@@ -11,7 +11,7 @@
                                 <span class="separator-right site-bg-primary"></span>
                             </div>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+                        <p>Meet the dedicated team of health and wellness specialists at Pureexa. Our experts are passionate about bringing out your natural beauty and fostering a healthy lifestyle.</p>
                     </div>
                     <!-- TITLE END-->
                     <div class="section-content">
@@ -25,7 +25,7 @@
                                     </div>
                                     <div class="wt-info p-t30 text-center">
                                     	<h2>Camila</h2>
-                                        <p>Founder,  Beauty Spa</p>
+                                        <p>Founder,  Pureexa Health & Beauty</p>
                                     </div>
                                 </div>
                             </div>
@@ -37,7 +37,7 @@
                                     </div>
                                     <div class="wt-info p-t30 text-center">
                                     	<h2>Milagros</h2>
-                                        <p>Founder,  Beauty Spa</p>
+                                        <p>Founder,  Pureexa Health & Beauty</p>
                                     </div>
                                 </div>
                             </div>
@@ -49,7 +49,7 @@
                                     </div>
                                     <div class="wt-info p-t30 text-center">
                                     	<h2>Agustina.</h2>
-                                        <p>Founder,  Beauty Spa</p>
+                                        <p>Founder,  Pureexa Health & Beauty</p>
                                     </div>
                                 </div>
                             </div>

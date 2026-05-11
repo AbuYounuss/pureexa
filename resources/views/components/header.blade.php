@@ -50,9 +50,9 @@
                                     <a href="{{ url('/services') }}">Services</a>
                                 </li>
 
-                                <!-- Services -->
+                                <!-- Products -->
                                 <li>
-                                    <a href="javascript:;">Products <i class="fa fa-chevron-down"></i></a>
+                                    <a href="{{ url('/products') }}">Products <i class="fa fa-chevron-down"></i></a>
 
                                     <ul class="sub-menu">
                                         <li><a href="{{ url('/category/skincare') }}">Skincare</a></li>
@@ -64,16 +64,76 @@
                                     </ul>
                                 </li>
 
-                                <!-- Brands -->
-                                <li>
-                                    <a href="javascript:;">Brands <i class="fa fa-chevron-down"></i></a>
-
-                                    <ul class="sub-menu">
-                                        <li><a href="{{ url('/brand/ordinary') }}">The Ordinary</a></li>
-                                        <li><a href="{{ url('/brand/cerave') }}">CeraVe</a></li>
-                                        <li><a href="{{ url('/brand/cetaphil') }}">Cetaphil</a></li>
-                                        <li><a href="{{ url('/brand/beauty-of-joseon') }}">Beauty Of Joseon</a></li>
+                                <!-- Projects -->
+                                <li class="has-mega-menu">
+                                    <a href="javascript:;">Projects <i class="fa fa-chevron-down"></i></a>
+                                    <ul class="mega-menu">
+                                        <li style="width: 20%;">
+                                            <div class="wt-box p-a10 text-center">
+                                                <div class="wt-media">
+                                                    <a href="{{ url('/projects/hopeexa') }}">
+                                                        <img src="{{ asset('assets/images/company/hopeexa.png') }}" alt="Hopeexa" style="max-height: 40px; object-fit: contain;">
+                                                    </a>
+                                                </div>
+                                                <div class="wt-info p-t10">
+                                                    <h6 class="wt-title m-b0"><a href="{{ url('/projects/hopeexa') }}">Hopeexa.com</a></h6>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li style="width: 20%;">
+                                            <div class="wt-box p-a10 text-center">
+                                                <div class="wt-media">
+                                                    <a href="{{ url('/projects/sitvly') }}">
+                                                        <img src="{{ asset('assets/images/company/sitvly.png') }}" alt="Sitvly" style="max-height: 40px; object-fit: contain;">
+                                                    </a>
+                                                </div>
+                                                <div class="wt-info p-t10">
+                                                    <h6 class="wt-title m-b0"><a href="{{ url('/projects/sitvly') }}">Sitvly.com</a></h6>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li style="width: 20%;">
+                                            <div class="wt-box p-a10 text-center">
+                                                <div class="wt-media">
+                                                    <a href="{{ url('/projects/bookopa') }}">
+                                                        <img src="{{ asset('assets/images/company/bookopa.png') }}" alt="Bookopa" style="max-height: 40px; object-fit: contain;">
+                                                    </a>
+                                                </div>
+                                                <div class="wt-info p-t10">
+                                                    <h6 class="wt-title m-b0"><a href="{{ url('/projects/bookopa') }}">Bookopa.com</a></h6>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li style="width: 20%;">
+                                            <div class="wt-box p-a10 text-center">
+                                                <div class="wt-media">
+                                                    <a href="{{ url('/projects/martopa') }}">
+                                                        <img src="{{ asset('assets/images/company/martopa.png') }}" alt="Martopa" style="max-height: 40px; object-fit: contain;">
+                                                    </a>
+                                                </div>
+                                                <div class="wt-info p-t10">
+                                                    <h6 class="wt-title m-b0"><a href="{{ url('/projects/martopa') }}">Martopa.com</a></h6>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li style="width: 20%;">
+                                            <div class="wt-box p-a10 text-center">
+                                                <div class="wt-media">
+                                                    <a href="{{ url('/projects/viewvvly') }}">
+                                                        <img src="{{ asset('assets/images/company/vievvly.png') }}" alt="Viewvly" style="max-height: 40px; object-fit: contain;">
+                                                    </a>
+                                                </div>
+                                                <div class="wt-info p-t10">
+                                                    <h6 class="wt-title m-b0"><a href="{{ url('/projects/viewvvly') }}">Viewvly.com</a></h6>
+                                                </div>
+                                            </div>
+                                        </li>
                                     </ul>
+                                </li>
+
+                                <!-- Pricing -->
+                                <li>
+                                    <a href="{{ url('/Pricing') }}">Pricing</a>
                                 </li>
 
                                 <!-- Blog -->
@@ -81,10 +141,7 @@
                                     <a href="{{ url('/blog') }}">Blog</a>
                                 </li>
 
-                                <!-- Offers -->
-                                <li>
-                                    <a href="{{ url('/offers') }}">Offers</a>
-                                </li>
+
 
                                 <!-- Contact -->
                                 <li>
@@ -93,79 +150,15 @@
 
                             </ul>
                         </div>
+
                         <div class="extra-nav">
                             <div class="extra-cell">
                                 <a href="#search" class="site-search-btn"><i class="fa fa-search"></i></a>
                             </div>
-                            <div class="extra-cell">
-                                <a href="javascript:;" class="wt-cart cart-btn dropdown-toggle" title="Your Cart" id="ID-MSG_dropdown" data-bs-toggle="dropdown">
-                                    <span class="link-inner">
-                                        <span class="woo-cart-total"> </span>
-                                        <span class="woo-cart-count">
-                                            <span class="shopping-bag wcmenucart-count ">4</span>
-                                        </span>
-                                    </span>
-                                </a>
+                        </div>
 
-                                <div class="dropdown-menu cart-dropdown-item-wraper">
-                                    <div class="nav-cart-content">
-
-                                        <div class="nav-cart-items p-a15">
-                                            <div class="nav-cart-item clearfix">
-                                                <div class="nav-cart-item-image">
-                                                    <a href="#"><img src="{{ asset('assets/images/cart/pic-1.jpg') }}" alt="p-1"></a>
-                                                </div>
-                                                <div class="nav-cart-item-desc">
-                                                    <a href="#">Safety helmet</a>
-                                                    <span class="nav-cart-item-price"><strong>2</strong> x $19.99</span>
-                                                    <a href="#" class="nav-cart-item-quantity">x</a>
-                                                </div>
-                                            </div>
-                                            <div class="nav-cart-item clearfix">
-                                                <div class="nav-cart-item-image">
-                                                    <a href="#"><img src="{{ asset('assets/images/cart/pic-2.jpg') }}" alt="p-2"></a>
-                                                </div>
-                                                <div class="nav-cart-item-desc">
-                                                    <a href="#">Hammer drill machine</a>
-                                                    <span class="nav-cart-item-price"><strong>1</strong> x $24.99</span>
-                                                    <a href="#" class="nav-cart-item-quantity">x</a>
-                                                </div>
-                                            </div>
-                                            <div class="nav-cart-item clearfix">
-                                                <div class="nav-cart-item-image">
-                                                    <a href="#"><img src="{{ asset('assets/images/cart/pic-3.jpg') }}" alt="p-1"></a>
-                                                </div>
-                                                <div class="nav-cart-item-desc">
-                                                    <a href="#">Safety helmet</a>
-                                                    <span class="nav-cart-item-price"><strong>2</strong> x $19.99</span>
-                                                    <a href="#" class="nav-cart-item-quantity">x</a>
-                                                </div>
-                                            </div>
-                                            <div class="nav-cart-item clearfix">
-                                                <div class="nav-cart-item-image">
-                                                    <a href="#"><img src="{{ asset('assets/images/cart/pic-4.jpg') }}" alt="p-2"></a>
-                                                </div>
-                                                <div class="nav-cart-item-desc">
-                                                    <a href="#">Hammer drill machine</a>
-                                                    <span class="nav-cart-item-price"><strong>1</strong> x $24.99</span>
-                                                    <a href="#" class="nav-cart-item-quantity">x</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="nav-cart-title p-tb10 p-lr15 clearfix">
-                                            <h4  class="pull-left m-a0">Subtotal:</h4>
-                                            <h5 class="pull-right m-a0">$114.95</h5>
-                                        </div>
-                                        <div class="nav-cart-action p-a15 clearfix">
-                                            <button class="site-button  btn-block m-b15 " type="button">View Cart</button>
-                                            <button class="site-button  btn-block" type="button">Checkout </button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                         </div>
-                         <!-- NAV Toggle Button -->
-                        <button id="mobile-side-drawer" data-target=".header-nav" data-toggle="collapse" type="button" class="navbar-toggler collapsed">
+                        <!-- NAV Toggle Button -->
+                        <button id="mobile-side-drawer" data-target=".navbar-collapse" data-toggle="collapse" type="button" class="navbar-toggler collapsed">
                             <span class="sr-only">Toggle navigation</span>
                             <span class="icon-bar icon-bar-first"></span>
                             <span class="icon-bar icon-bar-two"></span>
@@ -181,8 +174,6 @@
                                 </div>
                             </form>
                         </div>
-
-
                     </div>
                 </div>
             </div>

@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Home Page')
+@section('title', 'Our Projects - Pureexa')
 
 @section('content')
     <!-- CONTENT START -->
@@ -10,7 +10,7 @@
                 <div class="overlay-main bg-black opacity-07"></div>
                 <div class="container">
                     <div class="wt-bnr-inr-entry">
-                        <h2 class="text-white text-center">Services</h2>
+                        <h2 class="text-white text-center">Projects</h2>
                     </div>
                 </div>
             </div>
@@ -21,14 +21,14 @@
                 <div class="container">
                     <ul class="wt-breadcrumb breadcrumb-style-2">
                         <li><a href="index.html"><i class="fa fa-home"></i> Home</a></li>
-                         <li>Services</li>
+                         <li>Projects</li>
                     </ul>
                 </div>
             </div>
             <!-- BREADCRUMB  ROW END -->
+
+
+
     </div>
     <!-- CONTENT END -->
 @endsection
-
-
-

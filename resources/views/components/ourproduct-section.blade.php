@@ -11,7 +11,7 @@
                                 <span class="separator-right site-bg-primary"></span>
                             </div>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+                        <p>Discover the essence of true beauty and relaxation with Pureexa. Our exclusive collection of health spa essentials and premium makeup products is carefully crafted to nourish your skin, rejuvenate your body, and elevate your everyday look.</p>
                     </div>
                     <!-- TITLE END-->
                     <div class="section-content">
@@ -24,9 +24,9 @@
                                         <img src="{{ asset('assets/images/products/pic-8.jpg') }}" class="radius-bx"  alt="">
                                     </div>
                                     <div class="wt-info p-t30 text-center">
-                                    	<h2>Massage Soap</h2>
-                                        <p class="site-text-primary">$199.99</p>
-                                        <a href="wish-list.html" class="site-button text-uppercase radius-sm font-weight-700 button-lg">Add to cart</a>
+                                	<h2>Herbal Massage Soap</h2>
+                                    <p class="site-text-primary">$24.99</p>
+                                    <a href="#" class="site-button text-uppercase radius-sm font-weight-700 button-lg">Add to cart</a>
                                     </div>
                                 </div>
                             </div>
@@ -37,9 +37,9 @@
                                         <img src="{{ asset('assets/images/products/pic-2.jpg') }}" class="radius-bx"  alt="">
                                     </div>
                                     <div class="wt-info p-t30 text-center">
-                                    	<h2>Flower</h2>
-                                        <p class="site-text-primary">$159.99</p>
-                                        <a href="wish-list.html" class="site-button text-uppercase radius-sm font-weight-700 button-lg">Add to cart</a>
+                                	<h2>Flawless Glow Foundation</h2>
+                                    <p class="site-text-primary">$49.99</p>
+                                    <a href="#" class="site-button text-uppercase radius-sm font-weight-700 button-lg">Add to cart</a>
                                     </div>
                                 </div>
                             </div>
@@ -50,9 +50,9 @@
                                         <img src="{{ asset('assets/images/products/pic-9.jpg') }}" class="radius-bx"  alt="">
                                     </div>
                                     <div class="wt-info p-t30 text-center">
-                                    	<h2>Massage Oil.</h2>
-                                        <p class="site-text-primary">$109.99</p>
-                                        <a href="wish-list.html" class="site-button text-uppercase radius-sm font-weight-700 button-lg">Add to cart</a>
+                                	<h2>Aromatherapy Massage Oil</h2>
+                                    <p class="site-text-primary">$39.99</p>
+                                    <a href="#" class="site-button text-uppercase radius-sm font-weight-700 button-lg">Add to cart</a>
                                     </div>
                                 </div>
                             </div>

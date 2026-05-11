@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Home Page')
+@section('title', 'Pureexa - Health & Beauty Spa')
 
 @section('content')
 
@@ -40,16 +40,19 @@
             {{-- our product section --}}
             @include('components.ourproduct-section')
 
+            {{-- brand showcase section --}}
+            @include('components.brand-showcase')
+
              {{-- our testimonial section --}}
             @include('components.ourtestimonial-section')
 
-            {{-- <!-- CONTACT US SECTION END  -->
+            <!-- CONTACT US SECTION START  -->
 			<div class="section-full p-t100 p-b70">
                 <div class="container equal-wraper no-col-gap m-b30">
 
                         <!-- TITLE START -->
                         <div class="section-head text-center">
-                            <h2><span class="site-text-primary"> Contact</span> Us</h2>
+                            <h2><span class="site-text-primary"> Contact</span> Pureexa</h2>
                             <div class="wt-separator-outer ">
                             <div class="wt-separator style-icon">
                                 <i class="fa fa-leaf text-black"></i>
@@ -57,7 +60,7 @@
                                 <span class="separator-right site-bg-primary"></span>
                             </div>
                         </div>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                            <p>Experience the ultimate relaxation and rejuvenation at Pureexa. Reach out to us for bookings, inquiries, or personalized beauty and wellness consultations.</p>
                         </div>
                         <!-- TITLE END -->
 
@@ -82,8 +85,8 @@
                                             </span>
                                             <div class="icon-content">
                                                 <h3 class="m-b5">Email</h3>
-                                                <span class="font-12">info @example.com </span><br>
-                                                <span class="font-12">info2 @example.com </span>
+                                                <span class="font-12">info@pureexa.com</span><br>
+                                                <span class="font-12">booking@pureexa.com</span>
                                             </div>
                                         </div>
 
@@ -114,11 +117,11 @@
                             	<div class="section-content bg-gray">
                                       <div class="contact-home-right p-a30">
                                       	<h3 class="text-uppercase font-26 p-b20 font-weight-400">GET IN TOUCH</h3>
-                                      	<form  class="cons-contact-form2" method="post" action="https://thewebmax.org/spa/phpmailer/mail.php">
+                                      	<form  class="cons-contact-form2" method="post" action="#">
                                         	<div class="form-group">
                                                 <div class="input-group">
                                                     <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                                                    <input name="username" type="text" required class="form-control" placeholder="Neme">
+                                                    <input name="username" type="text" required class="form-control" placeholder="Name">
                                                 </div>
                                             </div>
                                             <div class="form-group">
@@ -151,7 +154,7 @@
                 </div>
 
             </div>
-            <!-- CONTACT US OFFER SECTION END  --> --}}
+            <!-- CONTACT US SECTION END  -->
 
             {{-- our projects --}}
             @include('components.project-section')

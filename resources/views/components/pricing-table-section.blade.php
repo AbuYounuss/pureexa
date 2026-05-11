@@ -12,7 +12,7 @@
                                     <span class="separator-right site-bg-primary"></span>
                                 </div>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+                        <p>Explore our flexible pricing plans at Pureexa. Choose the perfect package to elevate your health, beauty, and makeup routine, tailored to fit your lifestyle and needs.</p>
                         </div>
                         <!-- TITLE END-->
 
@@ -26,7 +26,7 @@
 
                                                 <div class="overlay-wraper pricingtable-inner-overlay bg-no-repeat bg-cover" style="background-image:url('{{ asset('assets/images/our-work/pic1.jpg') }}');">
                                                     <div class="pricingtable-title">
-                                                        <h3>Basic Plan</h3>
+                                                    <h3>Essential Glow</h3>
                                                     </div>
                                                     <div class="pricingtable-price">
                                                         <span class="pricingtable-bx">$29</span>
@@ -37,11 +37,11 @@
 
 
                                                 <ul class="pricingtable-features">
-                                                    <li><i class="fa fa-check"></i>  Phone & Email Support  </li>
-                                                    <li><i class="fa fa-times"></i> 3 Social Account </li>
-                                                    <li><i class="fa fa-check"></i> Branded Reports  </li>
-                                                    <li><i class="fa fa-check"></i> Unlock rewards</li>
-                                                    <li><i class="fa fa-times"></i> Support Forum</li>
+                                                <li><i class="fa fa-check"></i> Essential Makeup Application </li>
+                                                <li><i class="fa fa-times"></i> Advanced Hair Styling </li>
+                                                <li><i class="fa fa-check"></i> Skin Cleansing & Prep </li>
+                                                <li><i class="fa fa-check"></i> Beauty Consultation</li>
+                                                <li><i class="fa fa-times"></i> Premium Spa Treatments</li>
                                                 </ul>
 
                                                 <div class="pricingtable-footer">
@@ -59,7 +59,7 @@
 
                                                 <div class="overlay-wraper pricingtable-inner-overlay bg-no-repeat bg-cover" style="background-image:url('{{ asset('assets/images/our-work/pic2.jpg') }}');">
                                                     <div class="pricingtable-title">
-                                                        <h3>Pro Plan</h3>
+                                                    <h3>Radiant Beauty</h3>
                                                     </div>
                                                     <div class="pricingtable-price">
                                                         <span class="pricingtable-bx">$49</span>
@@ -70,11 +70,11 @@
 
 
                                                 <ul class="pricingtable-features">
-                                                    <li><i class="fa fa-check"></i>  Phone & Email Support  </li>
-                                                    <li><i class="fa fa-check"></i> 3 Social Account </li>
-                                                    <li><i class="fa fa-check"></i> Branded Reports  </li>
-                                                    <li><i class="fa fa-check"></i> Unlock rewards</li>
-                                                    <li><i class="fa fa-check"></i> Support Forum</li>
+                                                <li><i class="fa fa-check"></i> Essential Makeup Application </li>
+                                                <li><i class="fa fa-check"></i> Advanced Hair Styling </li>
+                                                <li><i class="fa fa-check"></i> Skin Cleansing & Prep </li>
+                                                <li><i class="fa fa-check"></i> Beauty Consultation</li>
+                                                <li><i class="fa fa-check"></i> Premium Spa Treatments</li>
                                                 </ul>
 
                                                 <div class="pricingtable-footer">
@@ -92,7 +92,7 @@
 
                                                 <div class="overlay-wraper pricingtable-inner-overlay bg-no-repeat bg-cover" style="background-image:url('{{ asset('assets/images/our-work/pic3.jpg') }}');">
                                                     <div class="pricingtable-title">
-                                                        <h3>Premium Plan</h3>
+                                                    <h3>Ultimate Pureexa</h3>
                                                     </div>
                                                     <div class="pricingtable-price">
                                                         <span class="pricingtable-bx">$99</span>
@@ -103,11 +103,11 @@
 
 
                                                 <ul class="pricingtable-features">
-                                                    <li><i class="fa fa-check"></i>  Phone & Email Support  </li>
-                                                    <li><i class="fa fa-check"></i> 3 Social Account </li>
-                                                    <li><i class="fa fa-check"></i> Branded Reports  </li>
-                                                    <li><i class="fa fa-check"></i> Unlock rewards</li>
-                                                    <li><i class="fa fa-check"></i> Support Forum</li>
+                                                <li><i class="fa fa-check"></i> Premium Makeup Artistry </li>
+                                                <li><i class="fa fa-check"></i> Advanced Hair Styling </li>
+                                                <li><i class="fa fa-check"></i> Advanced Skin Treatments </li>
+                                                <li><i class="fa fa-check"></i> VIP Beauty Consultation</li>
+                                                <li><i class="fa fa-check"></i> Luxury Spa Treatments</li>
                                                 </ul>
 
                                                 <div class="pricingtable-footer">

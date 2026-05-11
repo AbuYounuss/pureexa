@@ -34,7 +34,7 @@
                                 style="z-index: 11;
                                 white-space: nowrap;
                                 text-transform:uppercase;">
-                                <div class="text-secondry"> Best Place  <span class="site-text-primary"> For you</span></div>
+                                <div class="text-secondry"> Discover <span class="site-text-primary"> Pureexa</span></div>
                                 </div>
 
                             <!-- LAYER NR. 2 -->
@@ -63,7 +63,7 @@
                                 text-transform:uppercase;
                                	font-weight: 700;">
                                 <div class="text-secondry">
-                                	<span class="site-text-primary">Harbal</span> Treatment
+                                	<span class="site-text-primary">Relax &</span> Rejuvenate
                                 </div>
                                 </div>
 
@@ -89,7 +89,7 @@
                                 data-paddingleft="[0,0,0,0]"
 
                                 style="z-index: 13; white-space: normal;">
-                                <div class="text-secondry"> Welcome to beauty lab, where you can relax and enjoy life. A little peace in a crazy world goes a long way.</div>
+                                <div class="text-secondry"> Immerse yourself in our tranquil health spa. Experience premium treatments designed to harmonize your body and mind.</div>
                                 </div>
 
                             <!-- LAYER NR. 4 -->
@@ -116,7 +116,7 @@
                                 data-paddingleft="[0,0,0,0]"
 
                                 style="z-index:13; text-transform:uppercase; font-weight:700;">
-                               <a href="services-detail.html" class="site-button radius-sm button-lg">See all Services</a>
+                               <a href="{{url('services')}}" class="site-button radius-sm button-lg">Explore Services</a>
                                </div>
                             <!-- LAYER NR. 5 -->
 
@@ -143,7 +143,7 @@
                                 data-paddingleft="[40,40,40,40]"
 
                                 style="z-index:13; text-transform:uppercase; font-weight:700;">
-                               <a href="about-1.html" class="site-button-secondry radius-sm button-lg">More detail</a>
+                               <a href="{{url('about')}}" class="site-button-secondry radius-sm button-lg">More detail</a>
                                </div>
 
                         </li>
@@ -178,7 +178,7 @@
                                 style="z-index: 11;
                                 white-space: nowrap;
                                 text-transform:uppercase;">
-                                <div class="text-secondry"> Best Place <span class="site-text-primary"> For You</span></div>
+                                <div class="text-secondry"> Flawless <span class="site-text-primary"> Beauty</span></div>
                                 </div>
 
                             <!-- LAYER NR. 2 -->
@@ -208,7 +208,7 @@
                                	font-weight: 700;
                                 ">
                                 <div class="text-secondry">
-                                	<span class="site-text-primary">Beauty & </span> Relaxation
+                                	<span class="site-text-primary">Expert</span> Makeup Artistry
                                 </div>
                                 </div>
 
@@ -234,7 +234,7 @@
                                 data-paddingleft="[0,0,0,0]"
 
                                 style="z-index: 13; white-space: normal;">
-                                <div class="text-secondry"> Welcome to beauty lab, where you can relax and enjoy life. A little peace in a crazy world goes a long way.</div>
+                                <div class="text-secondry"> Enhance your natural glow with our professional makeup and beauty services. Look and feel your absolute best at Pureexa.</div>
                                 </div>
 
                             <!-- LAYER NR. 4 -->
@@ -261,7 +261,7 @@
                                 data-paddingleft="[0,0,0,0]"
 
                                 style="z-index:13; text-transform:uppercase; font-weight:700;">
-                               <a href="services-detail.html" class="site-button radius-sm button-lg">See all Services</a>
+                               <a href="{{url('services')}}" class="site-button radius-sm button-lg">Explore Services</a>
                                </div>
                             <!-- LAYER NR. 5 -->
 
@@ -288,7 +288,7 @@
                                 data-paddingleft="[40,40,40,40]"
 
                                 style="z-index:13; text-transform:uppercase; font-weight:700;">
-                               <a href="about-1.html" class="site-button-secondry radius-sm button-lg">More detail</a>
+                               <a href="{{url('about')}}" class="site-button-secondry radius-sm button-lg">More detail</a>
                                </div>
 
                         </li>
@@ -323,7 +323,7 @@
                                 style="z-index: 11;
                                 white-space: nowrap;
                                 text-transform:uppercase;">
-                                <div class="text-secondry"> Beauty <span class="site-text-primary"> Means</span></div>
+                                <div class="text-secondry"> Holistic <span class="site-text-primary"> Wellness</span></div>
                                 </div>
 
                             <!-- LAYER NR. 2 -->
@@ -353,7 +353,7 @@
                                	font-weight: 700;
                                 ">
                                 <div class="text-secondry">
-                                	<span class="site-text-primary">Healthy</span> You
+                                	<span class="site-text-primary">Health &</span> Harmony
                                 </div>
                                 </div>
 
@@ -379,7 +379,7 @@
                                 data-paddingleft="[0,0,0,0]"
 
                                 style="z-index: 13; white-space: normal;">
-                                <div class="text-secondry"> Welcome to beauty lab, where you can relax and enjoy life. A little peace in a crazy world goes a long way.</div>
+                                <div class="text-secondry"> Revitalize your senses with our bespoke health treatments and therapies. Pureexa is your sanctuary for total well-being.</div>
                                 </div>
 
                             <!-- LAYER NR. 4 -->
@@ -406,7 +406,7 @@
                                 data-paddingleft="[0,0,0,0]"
 
                                 style="z-index:13; text-transform:uppercase; font-weight:700;">
-                               <a href="services-detail.html" class="site-button radius-sm button-lg">See all Services</a>
+                               <a href="{{url('services')}}" class="site-button radius-sm button-lg">Explore Services</a>
                                </div>
                             <!-- LAYER NR. 5 -->
 
@@ -433,7 +433,7 @@
                                 data-paddingleft="[40,40,40,40]"
 
                                 style="z-index:13; text-transform:uppercase; font-weight:700;">
-                               <a href="about-1.html" class="site-button-secondry radius-sm button-lg">More detail</a>
+                               <a href="{{url('about')}}" class="site-button-secondry radius-sm button-lg">More detail</a>
                                </div>
 
                         </li>

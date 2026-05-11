@@ -7,9 +7,9 @@
                                 	<div class="special-offer radius p-tb60">
                                         <div class="wt-left-part special-offer-in">
                                             <div class="wt-box p-r100 text-white">
-                                                <h2>Our Special Offer</h2>
-                                                <h3 class="text-uppercase">You Owe Yourself This Moment</h3>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin squ ad litora torquent per conubia.</p>
+                                                <h2>Pureexa Special Offer</h2>
+                                                <h3 class="text-uppercase">Elevate Your Health, Beauty & Makeup</h3>
+                                                <p>Treat yourself to our exclusive health, beauty, and premium makeup services at Pureexa. Experience personalized care tailored to enhance your natural radiance and well-being.</p>
                                                 <a href="shortcode-pricing-table.html" class="site-button text-uppercase radius-sm font-weight-700 button-lg" >view packages</a>
                                             </div>
                                         </div>
@@ -22,7 +22,6 @@
                                 </div>
                             </div>
                         </div>
-                </div>
-
-            </div>
+                    </div>
+                 </div>
             <!-- OUR SPECIAL OFFER SECTION END  -->

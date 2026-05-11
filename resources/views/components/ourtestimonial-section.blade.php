@@ -3,7 +3,7 @@
             	<div class="container">
                     <!-- TITLE START-->
                     <div class="section-head text-center">
-                        <h2><span class="site-text-primary">What</span> People Say</h2>
+                        <h2><span class="site-text-primary">What</span> Our Clients Say</h2>
                         <div class="wt-separator-outer ">
                             <div class="wt-separator style-icon">
                                 <i class="fa fa-leaf text-black"></i>
@@ -11,7 +11,7 @@
                                 <span class="separator-right site-bg-primary"></span>
                             </div>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+                        <p>Discover how our health and beauty treatments have transformed the lives of our clients. Read their stories and experiences to see the difference our dedicated specialists make every day.</p>
                     </div>
                     <!-- TITLE END-->
                     <div class="section-content">
@@ -26,14 +26,12 @@
                                     <div class="testimonial-text clearfix">
                                         <div class="testimonial-paragraph">
                                             <span class="fa fa-quote-left site-text-primary"></span>
-                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                                  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                                  when an unknown printer took a galley of type and specimen book.
+                                            <p>The spa treatments here are simply incredible. I always leave feeling completely rejuvenated, relaxed, and with a natural glow. The staff truly understands holistic wellness.
                                             </p>
                                         </div>
                                         <div class="testimonial-detail clearfix">
-                                            <strong class="testimonial-name">RINDA SMITH</strong>
-                                            <span class="testimonial-position site-text-primary p-t10">Founder</span>
+                                            <strong class="testimonial-name">Sarah Jenkins</strong>
+                                            <span class="testimonial-position site-text-primary p-t10">Regular Client</span>
                                         </div>
                                     </div>
                                 </div>
@@ -48,14 +46,12 @@
                                     <div class="testimonial-text clearfix">
                                         <div class="testimonial-paragraph">
                                             <span class="fa fa-quote-left site-text-primary"></span>
-                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                                  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                                  when an unknown printer took a galley of type and specimen book.
+                                            <p>As someone who values natural beauty products, I am thrilled with the results I've seen. The personalized skincare routines have made a huge difference in my skin's health and appearance.
                                             </p>
                                         </div>
                                         <div class="testimonial-detail clearfix">
-                                            <strong class="testimonial-name">Agustina</strong>
-                                            <span class="testimonial-position site-text-primary p-t10">Spa Experts</span>
+                                            <strong class="testimonial-name">Emily Davis</strong>
+                                            <span class="testimonial-position site-text-primary p-t10">Beauty Enthusiast</span>
                                         </div>
                                     </div>
                                 </div>
@@ -70,14 +66,12 @@
                                     <div class="testimonial-text clearfix">
                                     <div class="testimonial-paragraph">
                                         <span class="fa fa-quote-left site-text-primary"></span>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                              Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                              when an unknown printer took a galley of type and specimen book.
+                                        <p>I started attending the wellness workshops and booking regular massage therapies. It has been a life-changing experience for my mental and physical health. Highly recommended!
                                         </p>
                                     </div>
                                     <div class="testimonial-detail clearfix">
-                                        <strong class="testimonial-name">RINDA SMITH</strong>
-                                        <span class="testimonial-position site-text-primary p-t10">Founder</span>
+                                        <strong class="testimonial-name">Jessica Taylor</strong>
+                                        <span class="testimonial-position site-text-primary p-t10">Wellness Advocate</span>
                                     </div>
                                 </div>
                                 </div>
@@ -92,14 +86,12 @@
                                     <div class="testimonial-text clearfix">
                                         <div class="testimonial-paragraph">
                                             <span class="fa fa-quote-left site-text-primary"></span>
-                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                                  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                                  when an unknown printer took a galley of type and specimen book.
+                                            <p>The expertise of the specialists is unmatched. They provide excellent advice and treatments that cater exactly to what my body and skin need. Truly a luxurious experience.
                                             </p>
                                         </div>
                                         <div class="testimonial-detail clearfix">
-                                            <strong class="testimonial-name">RINDA SMITH</strong>
-                                            <span class="testimonial-position site-text-primary p-t10">Founder</span>
+                                            <strong class="testimonial-name">Olivia Wilson</strong>
+                                            <span class="testimonial-position site-text-primary p-t10">Loyal Customer</span>
                                         </div>
                                     </div>
                                 </div>

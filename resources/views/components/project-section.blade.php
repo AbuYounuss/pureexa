@@ -12,7 +12,7 @@
                                 <span class="separator-right site-bg-primary"></span>
                             </div>
                         </div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                        <p>Trusted by leading brands in the health, beauty, and makeup industry. Pureexa is proud to partner with exceptional clients who share our passion for wellness and elegance.</p>
                     </div>
                     <!-- TITLE END -->
 

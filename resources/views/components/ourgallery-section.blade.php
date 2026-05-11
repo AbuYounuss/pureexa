@@ -12,19 +12,19 @@
                                 <span class="separator-right site-bg-primary"></span>
                             </div>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+                        <p>Step into the serene world of Pureexa, your premier destination for holistic health spa treatments and exquisite beauty makeup. Explore our gallery to see how we blend tranquility and artistry to bring out your natural glow.</p>
                     </div>
                      <!-- TITLE END-->
 
                      <!-- PAGINATION START -->
-                    <div class="filter-wrap p-a15 our-gallery  m-tb30">
+                    <div class="filter-wrap p-a15 our-gallery m-tb30 d-flex justify-content-center">
                         <ul class="masonry-filter link-style  text-uppercase center-block m-t0">
                             <li class="active"><a data-filter="*" href="#">All</a></li>
-                            <li><a data-filter=".cat-filter-1" href="#">Hair cut</a></li>
-                            <li><a data-filter=".cat-filter-2" href="#">Foot</a></li>
-                            <li><a data-filter=".cat-filter-3" href="#">Body</a></li>
+                            <li><a data-filter=".cat-filter-1" href="#">Makeup</a></li>
+                            <li><a data-filter=".cat-filter-2" href="#">Facial Spa</a></li>
+                            <li><a data-filter=".cat-filter-3" href="#">Body Spa</a></li>
                             <li><a data-filter=".cat-filter-4" href="#">Massage</a></li>
-                            <li><a data-filter=".cat-filter-5" href="#">Face massage</a></li>
+                            <li><a data-filter=".cat-filter-5" href="#">Wellness</a></li>
                         </ul>
                     </div>
                     <!-- PAGINATION END -->
@@ -48,8 +48,8 @@
                                                     </a>
                                                 </div>
                                                 <div class="wt-info-text p-a30">
-                                                    <h3>Back Massage</h3>
-                                                    <p>Lorem Khaled Ipsum is a major key to success. Put it this way, it took me twenty five years to get these plants.</p>
+                                                    <h3>Bridal & Event Makeup</h3>
+                                                    <p>Enhance your natural beauty with our professional makeup services, tailored to make you shine on your special day.</p>
                                                 </div>
                                              </div>
                                         </div>
@@ -69,8 +69,8 @@
                                                     </a>
                                                 </div>
                                                 <div class="wt-info-text p-a30">
-                                                    <h3>Head Massage </h3>
-                                                    <p>Lorem Khaled Ipsum is a major key to success. Put it this way, it took me twenty five years to get these plants.</p>
+                                                    <h3>Anti-Aging Facial</h3>
+                                                    <p>Revitalize your skin with our premium facial treatments, designed to nourish, hydrate, and restore your youthful radiance.</p>
                                                 </div>
                                              </div>
                                         </div>
@@ -90,8 +90,8 @@
                                                     </a>
                                                 </div>
                                                 <div class="wt-info-text p-a30">
-                                                    <h3>Body Scrub</h3>
-                                                    <p>Lorem Khaled Ipsum is a major key to success. Put it this way, it took me twenty five years to get these plants.</p>
+                                                    <h3>Body Scrub & Polish</h3>
+                                                    <p>Experience ultimate relaxation with our exfoliating body scrubs and treatments, leaving your skin soft and renewed.</p>
                                                 </div>
                                              </div>
                                         </div>
@@ -111,8 +111,8 @@
                                                     </a>
                                                 </div>
                                                 <div class="wt-info-text p-a30">
-                                                    <h3>Aromatherapy Massage</h3>
-                                                    <p>Lorem Khaled Ipsum is a major key to success. Put it this way, it took me twenty five years to get these plants.</p>
+                                                    <h3>Deep Tissue Massage</h3>
+                                                    <p>Melt away tension and stress with our expert massage therapies, focused on deep relaxation and muscle recovery.</p>
                                                 </div>
                                              </div>
                                         </div>
@@ -132,8 +132,8 @@
                                                     </a>
                                                 </div>
                                                 <div class="wt-info-text p-a30">
-                                                    <h3>Aromatherapy Massage</h3>
-                                                    <p>Lorem Khaled Ipsum is a major key to success. Put it this way, it took me twenty five years to get these plants.</p>
+                                                    <h3>Holistic Wellness</h3>
+                                                    <p>Recharge your mind and body through our holistic wellness sessions, promoting balance and inner peace.</p>
                                                 </div>
                                              </div>
                                         </div>
@@ -153,8 +153,8 @@
                                                     </a>
                                                 </div>
                                                 <div class="wt-info-text p-a30">
-                                                    <h3>Massages & Body</h3>
-                                                    <p>Lorem Khaled Ipsum is a major key to success. Put it this way, it took me twenty five years to get these plants.</p>
+                                                    <h3>Hot Stone Therapy</h3>
+                                                    <p>Let the soothing heat of our basalt stones ease muscle stiffness and improve circulation for total relaxation.</p>
                                                 </div>
                                              </div>
                                         </div>
@@ -174,8 +174,8 @@
                                                     </a>
                                                 </div>
                                                 <div class="wt-info-text p-a30">
-                                                    <h3>Beauty Spa</h3>
-                                                    <p>Lorem Khaled Ipsum is a major key to success. Put it this way, it took me twenty five years to get these plants.</p>
+                                                    <h3>Glow Facial Spa</h3>
+                                                    <p>Discover a brighter complexion with our signature glow facial, combining exfoliation and deep hydration.</p>
                                                 </div>
                                              </div>
                                         </div>
@@ -195,8 +195,8 @@
                                                     </a>
                                                 </div>
                                                 <div class="wt-info-text p-a30">
-                                                    <h3>Facial Spa</h3>
-                                                    <p>Lorem Khaled Ipsum is a major key to success. Put it this way, it took me twenty five years to get these plants.</p>
+                                                    <h3>Flawless Evening Makeup</h3>
+                                                    <p>Turn heads at your next event with our stunning evening makeup looks, customized to suit your unique style.</p>
                                                 </div>
                                              </div>
                                         </div>

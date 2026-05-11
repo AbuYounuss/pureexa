@@ -109,12 +109,13 @@
                             <div class="widget widget_services">
                                 <h4 class="widget-title">Useful links</h4>
                                 <ul>
-                                    <li><a href="about-1.html">About</a></li>
-                                    <li><a href="faq-1.html">FAQ</a></li>
-                                    <li><a href="career.html">Career</a></li>
-                                    <li><a href="our-team.html">Our Team</a></li>
-                                    <li><a href="services.html">Services</a></li>
-                                    <li><a href="gallery-grid-1.html">Gallery</a></li>
+                                    <li><a href="{{ url('/about') }}">About</a></li>
+                                    <li><a href="{{ url('/Pricing') }}">Pricing</a></li>
+                                    <li><a href="{{ url('/services') }}">Services</a></li>
+                                    <li><a href="{{ url('/products') }}">Products</a></li>
+                                    <li><a href="{{ route('terms-conditions') }}">Terms & Condition</a></li>
+                                    <li><a href="{{ route('privacy-policy') }}">Privacy Policy</a></li>
+                                    <li><a href="{{ url('/contact') }}">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -159,9 +160,9 @@
                         </div>
                         <div class="wt-footer-bot-right">
                             <ul class="copyrights-nav pull-right">
-                                <li><a href="about-1.html">Terms  & Condition</a></li>
-                                <li><a href="about-1.html">Privacy Policy</a></li>
-                                <li><a href="contact-1.html">Contact Us</a></li>
+                                <li><a href="{{ url('/terms-conditions') }}">Terms & Condition</a></li>
+                                <li><a href="{{ url('/privacy-policy') }}">Privacy Policy</a></li>
+                                <li><a href="{{ url('/contact') }}">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>

@@ -11,7 +11,7 @@
                                 </span>
                                 <div class="icon-content">
                                     <div><span class="counter"> 458 </span><b>+</b></div>
-                                    <span class="text-uppercase">Happy Clients</span>
+                                    <span class="text-uppercase">Glowing Clients</span>
                                 </div>
                             </div>
                         </div>
@@ -23,7 +23,7 @@
                                 </span>
                                 <div class="icon-content">
                                     <div><span class="counter"> 698 </span><b>+</b></div>
-                                    <span class="text-uppercase">Win Awards</span>
+                                    <span class="text-uppercase">Beauty Awards</span>
                                 </div>
                             </div>
                         </div>
@@ -35,7 +35,7 @@
                                 </span>
                                 <div class="icon-content">
                                     <div><span class="counter"> 894 </span><b>+</b></div>
-                                    <span class="text-uppercase">Our Trainer</span>
+                                    <span class="text-uppercase">Wellness Specialists</span>
                                 </div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 </span>
                                 <div class="icon-content">
                                     <div><span class="counter"> 758 </span><b>+</b></div>
-                                    <span class="text-uppercase">Treatments</span>
+                                    <span class="text-uppercase">Spa Treatments</span>
                                 </div>
                             </div>
                         </div>

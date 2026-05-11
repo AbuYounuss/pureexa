@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Home Page')
+@section('title', 'Our Services - Pureexa')
 
 @section('content')
     <!-- CONTENT START -->
@@ -30,7 +30,7 @@
             <!-- SECTION CONTENT -->
             <div class="section-full p-t80 p-b50  ">
                 <div class="container">
-                	<!-- TITLE START -->
+                <!-- TITLE START -->
                     <div class="section-head text-center">
                             <h3 class="text-uppercase">Our Services</h3>
                             <div class="wt-separator-outer">
@@ -40,8 +40,7 @@
                                    <span class="separator-right site-bg-primary"></span>
                                </div>
                            </div>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever
-                            since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book has survived.</p>
+                            <p>Discover our wide range of premium health and beauty services. From relaxing massages to rejuvenating facial spas, we offer the perfect treatments to help you unwind, refresh, and enhance your natural beauty.</p>
                         </div>
                     <!-- TITLE END -->
                     <div class="section-content">
@@ -51,12 +50,12 @@
                             <div class="col-lg-4 col-md-6 m-b30">
                                 <div class="wt-box bg-white">
                                     <div class="wt-media">
-                                        <a href="{{ url('/services-details') }}"><img src="{{ asset('assets/images/our-work/pic1.jpg') }}" alt=""></a>
+                                        <a href="{{ url('/services-details') }}?service=back-massage"><img src="{{ asset('assets/images/our-services/large/s3.jpg') }}" alt="Back Massage"></a>
                                     </div>
-                                    <div class="wt-info p-a30 bg-gray">
-                                        <h4 class="wt-title m-t0"><a href="{{ url('/services-details') }}">Back Massage</a></h4>
-                                        <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius . </p>
-                                        <a href="{{ url('/services-details') }}" class="site-button ">More <i class="fa fa-angle-double-right"></i></a>
+                                    <div class="wt-info p-a30 bg-gray text-center">
+                                        <h4 class="wt-title m-t0"><a href="{{ url('/services-details') }}?service=back-massage">Back Massage</a></h4>
+                                        <p>Relieve muscle tension and reduce stress with our deep tissue back massage, designed to restore your body's natural balance.</p>
+                                        <a href="{{ url('/services-details') }}?service=back-massage" class="site-button ">More <i class="fa fa-angle-double-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -64,12 +63,12 @@
                             <div class="col-lg-4 col-md-6 m-b30">
                                 <div class="wt-box bg-white">
                                     <div class="wt-media">
-                                        <a href="{{ url('/services-details') }}"><img src="{{ asset('assets/images/our-work/pic2.jpg') }}" alt=""></a>
+                                        <a href="{{ url('/services-details') }}?service=head-massage"><img src="{{ asset('assets/images/our-services/large/s4.jpg') }}" alt="Head Massage"></a>
                                     </div>
-                                    <div class="wt-info p-a30 bg-gray">
-                                        <h4 class="wt-title m-t0"><a href="{{ url('/services-details') }}">Head Massage </a></h4>
-                                        <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius . </p>
-                                        <a href="{{ url('/services-details') }}" class="site-button ">More <i class="fa fa-angle-double-right"></i></a>
+                                    <div class="wt-info p-a30 bg-gray text-center">
+                                        <h4 class="wt-title m-t0"><a href="{{ url('/services-details') }}?service=head-massage">Head Massage </a></h4>
+                                        <p>Experience deep relaxation with our soothing head massage that stimulates circulation and melts away everyday anxiety.</p>
+                                        <a href="{{ url('/services-details') }}?service=head-massage" class="site-button ">More <i class="fa fa-angle-double-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -77,12 +76,12 @@
                             <div class="col-lg-4 col-md-6 m-b30">
                                 <div class="wt-box bg-white">
                                     <div class="wt-media">
-                                        <a href="{{ url('/services-details') }}"><img src="{{ asset('assets/images/our-work/pic3.jpg') }}" alt=""></a>
+                                        <a href="{{ url('/services-details') }}?service=body-scrub"><img src="{{ asset('assets/images/our-services/large/s2.jpg') }}" alt="Body Scrub"></a>
                                     </div>
-                                    <div class="wt-info p-a30 bg-gray">
-                                        <h4 class="wt-title m-t0"><a href="{{ url('/services-details') }}">Body Scrub</a></h4>
-                                        <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius . </p>
-                                        <a href="{{ url('/services-details') }}" class="site-button ">More <i class="fa fa-angle-double-right"></i></a>
+                                    <div class="wt-info p-a30 bg-gray text-center">
+                                        <h4 class="wt-title m-t0"><a href="{{ url('/services-details') }}?service=body-scrub">Body Scrub</a></h4>
+                                        <p>Exfoliate and nourish your skin with our organic body scrubs, leaving your skin feeling silky smooth, glowing, and refreshed.</p>
+                                        <a href="{{ url('/services-details') }}?service=body-scrub" class="site-button ">More <i class="fa fa-angle-double-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -90,12 +89,12 @@
                             <div class="col-lg-4 col-md-6 m-b30">
                                 <div class="wt-box bg-white">
                                     <div class="wt-media">
-                                        <a href="{{ url('/services-details') }}"><img src="{{ asset('assets/images/our-work/pic4.jpg') }}" alt=""></a>
+                                        <a href="{{ url('/services-details') }}?service=aromatherapy"><img src="{{ asset('assets/images/our-services/large/s5.jpg') }}" alt="Aromatherapy Massage"></a>
                                     </div>
-                                    <div class="wt-info p-a30 bg-gray">
-                                        <h4 class="wt-title m-t0"><a href="{{ url('/services-details') }}">Aromatherapy Massage</a></h4>
-                                        <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius . </p>
-                                        <a href="{{ url('/services-details') }}" class="site-button ">More <i class="fa fa-angle-double-right"></i></a>
+                                    <div class="wt-info p-a30 bg-gray text-center">
+                                        <h4 class="wt-title m-t0"><a href="{{ url('/services-details') }}?service=aromatherapy">Aromatherapy Massage</a></h4>
+                                        <p>Enhance your physical and emotional health with our aromatherapy massage using premium essential oils.</p>
+                                        <a href="{{ url('/services-details') }}?service=aromatherapy" class="site-button ">More <i class="fa fa-angle-double-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -103,12 +102,12 @@
                             <div class="col-lg-4 col-md-6 m-b30">
                                 <div class="wt-box bg-white">
                                     <div class="wt-media">
-                                        <a href="{{ url('/services-details') }}"><img src="{{ asset('assets/images/our-work/pic5.jpg') }}" alt=""></a>
+                                        <a href="{{ url('/services-details') }}?service=face-massage"><img src="{{ asset('assets/images/our-services/large/s1.jpg') }}" alt="Face Massage"></a>
                                     </div>
-                                    <div class="wt-info p-a30 bg-gray">
-                                        <h4 class="wt-title m-t0"><a href="{{ url('/services-details') }}">Massages & Body</a></h4>
-                                        <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius . </p>
-                                        <a href="{{ url('/services-details') }}" class="site-button ">More <i class="fa fa-angle-double-right"></i></a>
+                                    <div class="wt-info p-a30 bg-gray text-center">
+                                        <h4 class="wt-title m-t0"><a href="{{ url('/services-details') }}?service=face-massage">Face Massage</a></h4>
+                                        <p>Relax and rejuvenate your facial muscles with our therapeutic massage techniques for a glowing complexion.</p>
+                                        <a href="{{ url('/services-details') }}?service=face-massage" class="site-button ">More <i class="fa fa-angle-double-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -116,12 +115,12 @@
                             <div class="col-lg-4 col-md-6 m-b30">
                                 <div class="wt-box bg-white">
                                     <div class="wt-media">
-                                        <a href="{{ url('/services-details') }}"><img src="{{ asset('assets/images/our-work/pic6.jpg') }}" alt=""></a>
+                                        <a href="{{ url('/services-details') }}?service=beauty-spa"><img src="{{ asset('assets/images/our-services/large/s6.jpg') }}" alt="Beauty Spa"></a>
                                     </div>
-                                    <div class="wt-info p-a30 bg-gray">
-                                        <h4 class="wt-title m-t0"><a href="{{ url('/services-details') }}">Beauty Spa</a></h4>
-                                        <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius . </p>
-                                        <a href="{{ url('/services-details') }}" class="site-button ">More <i class="fa fa-angle-double-right"></i></a>
+                                    <div class="wt-info p-a30 bg-gray text-center">
+                                        <h4 class="wt-title m-t0"><a href="{{ url('/services-details') }}?service=beauty-spa">Beauty Spa</a></h4>
+                                        <p>Treat yourself to our signature beauty spa packages for a comprehensive makeover and unmatched relaxation.</p>
+                                        <a href="{{ url('/services-details') }}?service=beauty-spa" class="site-button ">More <i class="fa fa-angle-double-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -129,57 +128,19 @@
                              <div class="col-lg-4 col-md-6 m-b30">
                                 <div class="wt-box bg-white">
                                     <div class="wt-media">
-                                        <a href="{{ url('/services-details') }}"><img src="{{ asset('assets/images/our-work/pic7.jpg') }}" alt=""></a>
+                                        <a href="{{ url('/services-details') }}?service=facial-spa"><img src="{{ asset('assets/images/our-services/large/s2.jpg') }}" alt="Facial Spa"></a>
                                     </div>
-                                    <div class="wt-info p-a30 bg-gray">
-                                        <h4 class="wt-title m-t0"><a href="{{ url('/services-details') }}">Highway</a></h4>
-                                        <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius . </p>
-                                        <a href="{{ url('/services-details') }}" class="site-button ">More <i class="fa fa-angle-double-right"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- COLUMNS 8 -->
-                            <div class="col-lg-4 col-md-6 m-b30">
-                                <div class="wt-box bg-white">
-                                    <div class="wt-media">
-                                        <a href="{{ url('/services-details') }}"><img src="{{ asset('assets/images/our-work/pic8.jpg') }}" alt=""></a>
-                                    </div>
-                                    <div class="wt-info p-a30 bg-gray">
-                                        <h4 class="wt-title m-t0"><a href="{{ url('/services-details') }}">Facial Spa</a></h4>
-                                        <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius . </p>
-                                        <a href="{{ url('/services-details') }}" class="site-button  ">More <i class="fa fa-angle-double-right"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- COLUMNS 9 -->
-                            <div class="col-lg-4 col-md-6 m-b30">
-                                <div class="wt-box bg-white">
-                                    <div class="wt-media">
-                                        <a href="{{ url('/services-details') }}"><img src="{{ asset('assets/images/our-work/pic1.jpg') }}" alt=""></a>
-                                    </div>
-                                    <div class="wt-info p-a30 bg-gray">
-                                        <h4 class="wt-title m-t0"><a href="{{ url('/services-details') }}">Hair Makeup</a></h4>
-                                        <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius . </p>
-                                        <a href="{{ url('/services-details') }}" class="site-button ">More <i class="fa fa-angle-double-right"></i></a>
+                                    <div class="wt-info p-a30 bg-gray text-center">
+                                        <h4 class="wt-title m-t0"><a href="{{ url('/services-details') }}?service=facial-spa">Facial Spa</a></h4>
+                                        <p>Revitalize your complexion with our deep-cleansing facial spas tailored for all skin types and beauty needs.</p>
+                                        <a href="{{ url('/services-details') }}?service=facial-spa" class="site-button ">More <i class="fa fa-angle-double-right"></i></a>
                                     </div>
                                 </div>
                             </div>
 
                         </div>
                     </div>
-                    {{-- <!-- PAGINATION START -->
-                    <div class="pagination-bx  clearfix ">
-                        <ul class = "custom-pagination pagination-1">
-                            <li><a href = "#">&laquo;</a></li>
-                            <li class = "active"><a href = "#">1</a></li>
-                            <li><a href = "#">2</a></li>
-                            <li><a href = "#">3</a></li>
-                            <li><a href = "#">4</a></li>
-                            <li><a href = "#">5</a></li>
-                            <li><a href = "#">&raquo;</a></li>
-                        </ul>
-                    </div>
-                    <!-- PAGINATION END --> --}}
+
                 </div>
             </div>
             <!-- SECTION CONTENT END -->
