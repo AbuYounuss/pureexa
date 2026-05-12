@@ -70,11 +70,11 @@
 
 
                                                 <ul class="pricingtable-features">
-                                                <li><i class="fa fa-check"></i> Essential Makeup Application </li>
-                                                <li><i class="fa fa-check"></i> Advanced Hair Styling </li>
-                                                <li><i class="fa fa-check"></i> Skin Cleansing & Prep </li>
-                                                <li><i class="fa fa-check"></i> Beauty Consultation</li>
-                                                <li><i class="fa fa-check"></i> Premium Spa Treatments</li>
+                                                    <li><i class="fa fa-check"></i> Essential Makeup Application </li>
+                                                    <li><i class="fa fa-check"></i> Advanced Hair Styling </li>
+                                                    <li><i class="fa fa-check"></i> Skin Cleansing & Prep </li>
+                                                    <li><i class="fa fa-check"></i> Beauty Consultation</li>
+                                                    <li><i class="fa fa-check"></i> Premium Spa Treatments</li>
                                                 </ul>
 
                                                 <div class="pricingtable-footer">
