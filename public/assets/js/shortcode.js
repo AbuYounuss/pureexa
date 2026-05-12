@@ -48,10 +48,10 @@ jQuery(document).ready(function() {
 
 	
 //  Tooltip function by = bootstrap.js ========================== //
-	jQuery('[data-toggle="tooltip"]').tooltip();
+	jQuery('[data-bs-toggle="tooltip"]').tooltip();
 	
 //  Popovers = bootstrap.js========================= //	
-	jQuery('[data-toggle="popover"]').popover();
+	jQuery('[data-bs-toggle="popover"]').popover();
 
 //  image-carousel function by = owl.carousel.js ========================== //
 	jQuery('.img-carousel').owlCarousel({

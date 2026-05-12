@@ -103,7 +103,7 @@
                         </div>
 
                         <!-- NAV Toggle Button -->
-                        <button id="mobile-side-drawer" data-target=".navbar-collapse" data-toggle="collapse" type="button" class="navbar-toggler collapsed">
+                        <button id="mobile-side-drawer" data-bs-target=".navbar-collapse" data-bs-toggle="collapse" type="button" class="navbar-toggler collapsed">
                             <span class="sr-only">Toggle navigation</span>
                             <span class="icon-bar icon-bar-first"></span>
                             <span class="icon-bar icon-bar-two"></span>

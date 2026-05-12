@@ -24,7 +24,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{ asset('assets/images/client-logo/logo1.png') }}" alt=""></a>
+                                        <a href="contact-1.html"><img src="{{ asset('assets/images/otherCompany/bookopa.png') }}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -32,7 +32,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{ asset('assets/images/client-logo/logo2.png') }}" alt=""></a>
+                                        <a href="contact-1.html"><img src="{{ asset('assets/images/otherCompany/hopeexa.png') }}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -40,7 +40,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{ asset('assets/images/client-logo/logo3.png') }}" alt=""></a>
+                                        <a href="contact-1.html"><img src="{{ asset('assets/images/otherCompany/martopa.png') }}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -48,7 +48,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{ asset('assets/images/client-logo/logo4.png') }}" alt=""></a>
+                                        <a href="contact-1.html"><img src="{{ asset('assets/images/otherCompany/pureexa.png') }}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -56,7 +56,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{ asset('assets/images/client-logo/logo5.png') }}" alt=""></a>
+                                        <a href="contact-1.html"><img src="{{ asset('assets/images/otherCompany/sitvly.png') }}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -64,7 +64,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{ asset('assets/images/client-logo/logo6.png') }}" alt=""></a>
+                                        <a href="contact-1.html"><img src="{{ asset('assets/images/otherCompany/vievvly.png') }}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -72,7 +72,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{ asset('assets/images/client-logo/logo7.png') }}" alt=""></a>
+                                        <a href="contact-1.html"><img src="{{ asset('assets/images/otherCompany/bookopa.png') }}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -80,7 +80,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{ asset('assets/images/client-logo/logo8.png') }}" alt=""></a>
+                                        <a href="contact-1.html"><img src="{{ asset('assets/images/otherCompany/hopeexa.png') }}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -88,7 +88,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{ asset('assets/images/client-logo/logo9.png') }}" alt=""></a>
+                                        <a href="contact-1.html"><img src="{{ asset('assets/images/otherCompany/martopa.png') }}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -96,7 +96,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{ asset('assets/images/client-logo/logo10.png') }}" alt=""></a>
+                                        <a href="contact-1.html"><img src="{{ asset('assets/images/otherCompany/pureexa.png') }}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -104,7 +104,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{ asset('assets/images/client-logo/logo11.png') }}" alt=""></a>
+                                        <a href="contact-1.html"><img src="{{ asset('assets/images/otherCompany/sitvly.png') }}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -112,7 +112,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{ asset('assets/images/client-logo/logo12.png') }}" alt=""></a>
+                                        <a href="contact-1.html"><img src="{{ asset('assets/images/otherCompany/vievvly.png') }}" alt=""></a>
                                     </div>
                                 </div>
                             </div>

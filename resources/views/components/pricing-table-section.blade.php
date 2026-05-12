@@ -30,7 +30,7 @@
                                                     </div>
                                                     <div class="pricingtable-price">
                                                         <span class="pricingtable-bx">$29</span>
-                                                        <span class="pricingtable-type">M</span>
+                                                        {{-- <span class="pricingtable-type">M</span> --}}
                                                     </div>
                                                     <div class="overlay-main bg-black opacity-07"></div>
                                                 </div>
@@ -45,7 +45,7 @@
                                                 </ul>
 
                                                 <div class="pricingtable-footer">
-                                                    <a href="shortcode-pricing-table.html" class="site-button text-uppercase radius-sm">Purchase</a>
+                                                    <a href="{{route('contact')}}" class="site-button text-uppercase radius-sm">Purchase</a>
                                                 </div>
 
                                             </div>
@@ -63,7 +63,7 @@
                                                     </div>
                                                     <div class="pricingtable-price">
                                                         <span class="pricingtable-bx">$49</span>
-                                                        <span class="pricingtable-type">M</span>
+                                                        {{-- <span class="pricingtable-type">M</span> --}}
                                                     </div>
                                                     <div class="overlay-main bg-black opacity-07"></div>
                                                 </div>
@@ -78,7 +78,7 @@
                                                 </ul>
 
                                                 <div class="pricingtable-footer">
-                                                    <a href="shortcode-pricing-table.html" class="site-button text-uppercase radius-sm">Purchase</a>
+                                                    <a href="{{ route('contact') }}" class="site-button text-uppercase radius-sm">Purchase</a>
                                                 </div>
 
                                             </div>
@@ -96,7 +96,7 @@
                                                     </div>
                                                     <div class="pricingtable-price">
                                                         <span class="pricingtable-bx">$99</span>
-                                                        <span class="pricingtable-type">M</span>
+                                                        {{-- <span class="pricingtable-type">M</span> --}}
                                                     </div>
                                                     <div class="overlay-main bg-black opacity-07"></div>
                                                 </div>
@@ -111,7 +111,7 @@
                                                 </ul>
 
                                                 <div class="pricingtable-footer">
-                                                    <a href="shortcode-pricing-table.html" class="site-button text-uppercase radius-sm">Purchase</a>
+                                                    <a href="{{ route('contact') }}" class="site-button text-uppercase radius-sm">Purchase</a>
                                                 </div>
 
                                             </div>

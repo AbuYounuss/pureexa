@@ -33,6 +33,7 @@
                             url="{{ url('/brand/ordinary') }}"
                             desc="High-quality skincare formulated with effective ingredients."
                             price="$15.99"
+                            :showAction="false"
                         />
                     </div>
                     <div class="col-lg-4 col-md-6 m-b30">
@@ -42,6 +43,7 @@
                             url="{{ url('/brand/ordinary') }}"
                             desc="Targeted treatments for healthy, glowing skin."
                             price="$18.50"
+                            :showAction="false"
                         />
                     </div>
                     <div class="col-lg-4 col-md-6 m-b30">
@@ -51,6 +53,7 @@
                             url="{{ url('/brand/ordinary') }}"
                             desc="Science-backed beauty solutions at an affordable price."
                             price="$12.99"
+                            :showAction="false"
                         />
                     </div>
                 </div>
@@ -73,6 +76,7 @@
                             url="{{ url('/brand/cerave') }}"
                             desc="Gentle care for your baby's delicate skin barrier."
                             price="$22.00"
+                            :showAction="false"
                         />
                     </div>
                     <div class="col-lg-4 col-md-6 m-b30">
@@ -82,6 +86,7 @@
                             url="{{ url('/brand/cerave') }}"
                             desc="Intense hydration with hyaluronic acid and essential ceramides."
                             price="$25.99"
+                            :showAction="false"
                         />
                     </div>
                     <div class="col-lg-4 col-md-6 m-b30">
@@ -91,6 +96,7 @@
                             url="{{ url('/brand/cerave') }}"
                             desc="Cleanses and hydrates with a unique foaming oil formula."
                             price="$20.50"
+                            :showAction="false"
                         />
                     </div>
                 </div>
@@ -113,6 +119,7 @@
                             url="{{ url('/brand/cetaphil') }}"
                             desc="Soothes and protects your baby's skin from dryness."
                             price="$14.99"
+                            :showAction="false"
                         />
                     </div>
                     <div class="col-lg-4 col-md-6 m-b30">
@@ -122,6 +129,7 @@
                             url="{{ url('/brand/cetaphil') }}"
                             desc="Deep cleans oily and combination skin without drying it out."
                             price="$16.50"
+                            :showAction="false"
                         />
                     </div>
                     <div class="col-lg-4 col-md-6 m-b30">
@@ -131,6 +139,7 @@
                             url="{{ url('/brand/cetaphil') }}"
                             desc="Clears breakouts and prevents new acne from forming."
                             price="$19.99"
+                            :showAction="false"
                         />
                     </div>
                 </div>

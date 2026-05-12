@@ -275,11 +275,12 @@ All JavaScript fuctions Start
 			},
 			480:{
 				items:1
-			},			
-			
+			},
 			767:{
-				items:1,
-				margin:50
+				items:1
+			},
+			991:{
+				items:1
 			},
 			1000:{
 				items:2
@@ -416,7 +417,7 @@ All JavaScript fuctions Start
 	/* 2.1 skills bar tooltips*/
 	function progress_bar_tooltips() {
 		jQuery(function () { 
-		  jQuery('[data-toggle="tooltips"]').tooltip({trigger: 'manual'}).tooltip('show');
+		  jQuery('[data-bs-toggle="tooltip"]').tooltip({trigger: 'manual'}).tooltip('show');
 		});  
 	}
   

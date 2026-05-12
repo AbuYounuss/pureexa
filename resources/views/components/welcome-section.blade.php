@@ -57,8 +57,8 @@
                             </div>
                         </div>
                         <div>
-                            <a href="shortcode-pricing-table.html" class="m-b15 site-button text-uppercase radius-sm m-lr15 font-weight-700 button-lg" >See our Plans</a>
-                            <a href="faq-1.html" class="m-b15 site-button-secondry text-uppercase radius-sm m-lr15 font-weight-700 button-lg">More Detail</a>
+                            <a href="{{route('services')}}" class="m-b15 site-button text-uppercase radius-sm m-lr15 font-weight-700 button-lg" >See our Plans</a>
+                            <a href="{{route('services-details')}}" class="m-b15 site-button-secondry text-uppercase radius-sm m-lr15 font-weight-700 button-lg">More Detail</a>
                         </div>
                     </div>
                 </div>

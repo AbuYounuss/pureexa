@@ -4314,7 +4314,7 @@ ol.list-num-count.list-outline-none > li:before {
 	padding-right:0px;
 }
 
-@media only screen and (max-width:480px) {
+@media only screen and (max-width:991px) {
 .testimonial-5, .testimonial-grid-5{
     margin-left: 0%;
     position: relative;
@@ -4334,6 +4334,7 @@ ol.list-num-count.list-outline-none > li:before {
 .testimonial-5 .testimonial-pic,
 .testimonial-grid-5 .testimonial-pic{
 	float:none;
+    margin: 0 auto;
 }
 	
 }

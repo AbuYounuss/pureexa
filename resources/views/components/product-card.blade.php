@@ -1,4 +1,4 @@
-@props(['image', 'title', 'price', 'url' => 'javascript:;', 'badge' => null, 'desc' => null, 'showAction' => true])
+@props(['image', 'title', 'price', 'url' => 'javascript:;', 'badge' => null, 'desc' => null, 'showAction' => false])
 
 @pushOnce('styles')
 <style>

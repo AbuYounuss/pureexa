@@ -23,6 +23,7 @@
                                     image="{{ asset('assets/images/products/pic-8.jpg') }}"
                                     title="Herbal Massage Soap"
                                     price="$24.99"
+                                    :showAction="false"
                                 />
                             </div>
                             <!-- COLUMNS 2 -->
@@ -31,6 +32,7 @@
                                     image="{{ asset('assets/images/products/pic-2.jpg') }}"
                                     title="Flawless Glow Foundation"
                                     price="$49.99"
+                                    :showAction="false"
                                 />
                             </div>
                             <!-- COLUMNS 3 -->
@@ -39,6 +41,7 @@
                                     image="{{ asset('assets/images/products/pic-9.jpg') }}"
                                     title="Aromatherapy Massage Oil"
                                     price="$39.99"
+                                    :showAction="false"
                                 />
                             </div>
 

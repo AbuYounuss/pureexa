@@ -147,6 +147,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s1.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -154,9 +155,8 @@
                                                                     <h3 class="font-26 font-weight-400">Massage Therapy </h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Relieve stress and muscle tension with Pureexa's therapeutic massage sessions. Our expert touch promotes deep relaxation and improved circulation.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+                                                                    <a href="{{ route('services') }}" class="site-button text-uppercase radius-sm">More</a>
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -169,6 +169,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s2.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -176,9 +177,8 @@
                                                                     <h3 class="font-26 font-weight-400">Facials </h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Rejuvenate your skin with our customized facial treatments. Pureexa uses premium products to cleanse, exfoliate, and hydrate for a glowing complexion.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -191,6 +191,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s3.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -198,9 +199,8 @@
                                                                     <h3 class="font-26 font-weight-400">Pedicures </h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Treat your feet to a luxurious pedicure at Pureexa. Enjoy a relaxing soak, exfoliation, and perfect polish application for ultimate foot care.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -213,6 +213,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s4.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -220,9 +221,8 @@
                                                                     <h3 class="font-26 font-weight-400">Manicures</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Keep your hands looking elegant with Pureexa's signature manicures. We offer meticulous nail shaping, cuticle care, and stunning polish finishes.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -235,6 +235,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s5.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -242,9 +243,8 @@
                                                                     <h3 class="font-26 font-weight-400">Body Wraps</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Detoxify and nourish your skin with a revitalizing body wrap. Experience deep hydration and skin firming in our tranquil spa environment.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -257,6 +257,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s6.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -264,9 +265,8 @@
                                                                     <h3 class="font-26 font-weight-400">Waxing & Cosmetics</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Achieve smooth, flawless skin with our professional waxing services and elevate your look with Pureexa's premium cosmetic applications.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -298,6 +298,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s2.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -305,9 +306,8 @@
                                                                     <h3 class="font-26 font-weight-400">Hair Color </h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Transform your look with vibrant, long-lasting hair color at Pureexa. Our stylists help you find the perfect shade to complement your features.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -320,6 +320,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s3.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -327,9 +328,8 @@
                                                                     <h3 class="font-26 font-weight-400">Braids & Twist </h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Get stylish, protective braids and twists tailored to your hair type. Pureexa's experts create stunning and durable braided hairstyles.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -342,6 +342,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s4.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -349,9 +350,8 @@
                                                                     <h3 class="font-26 font-weight-400">Corrective Color</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Fix color mishaps and restore your hair's natural beauty. Our advanced corrective color techniques ensure an even, gorgeous finish.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -364,6 +364,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s5.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -371,9 +372,8 @@
                                                                     <h3 class="font-26 font-weight-400">Hair Extension</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Add volume and length instantly with premium hair extensions. Pureexa seamlessly blends extensions for a natural and glamorous look.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -386,6 +386,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s6.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -393,9 +394,8 @@
                                                                     <h3 class="font-26 font-weight-400">Hair Cut</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Refresh your style with a precision haircut. Whether you want a trim or a complete transformation, our stylists deliver the perfect cut.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -408,6 +408,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s1.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -415,9 +416,8 @@
                                                                     <h3 class="font-26 font-weight-400">Partial Foil</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Add dimension to your hair with targeted partial foils. Enhance your natural base color with beautiful, sun-kissed highlights.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -449,6 +449,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s3.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -456,9 +457,8 @@
                                                                     <h3 class="font-26 font-weight-400">Eye Brows </h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Shape and define your brows with Pureexa's gentle eyebrow waxing. Enhance your facial structure with clean, precise arches.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -471,6 +471,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s4.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -478,9 +479,8 @@
                                                                     <h3 class="font-26 font-weight-400">Lips </h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Remove unwanted hair quickly and comfortably with our lip waxing service. Enjoy smooth skin with minimal irritation.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -493,6 +493,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s5.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -500,9 +501,8 @@
                                                                     <h3 class="font-26 font-weight-400">Eye Brow & Lips </h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>A convenient combo to groom both your eyebrows and upper lip. Achieve a flawless, polished look in one swift session.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -515,6 +515,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s6.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -522,9 +523,8 @@
                                                                     <h3 class="font-26 font-weight-400">Chin & Lips </h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Effectively remove facial hair from the chin and lip areas. Pureexa uses soothing wax to leave your skin soft and hair-free.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -537,6 +537,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s1.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -544,9 +545,8 @@
                                                                     <h3 class="font-26 font-weight-400">Side of Face</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Clear away peach fuzz and unwanted hair from the sides of your face. Enjoy a smoother canvas for your makeup application.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -559,6 +559,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s2.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -566,9 +567,8 @@
                                                                     <h3 class="font-26 font-weight-400">Lower Leg</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Get silky smooth legs with our professional lower leg waxing. Enjoy long-lasting results and beautifully bare skin.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -600,6 +600,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s4.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -607,9 +608,8 @@
                                                                     <h3 class="font-26 font-weight-400">Hand-On Facial</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Experience a classic hands-on facial designed to deeply cleanse and massage your skin. Pureexa's touch leaves you feeling refreshed.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -622,6 +622,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s5.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -629,9 +630,8 @@
                                                                     <h3 class="font-26 font-weight-400">Electrotherapy </h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Revitalize your skin at a cellular level with advanced electrotherapy facials. Boost collagen production and improve skin tone.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -644,6 +644,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s6.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -651,9 +652,8 @@
                                                                     <h3 class="font-26 font-weight-400">Clean up</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>A quick, refreshing clean-up to remove impurities and unclog pores. Perfect for maintaining a bright and healthy complexion on the go.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -666,6 +666,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s1.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -673,9 +674,8 @@
                                                                     <h3 class="font-26 font-weight-400">Anti Ageing </h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Combat fine lines and wrinkles with Pureexa's targeted anti-aging facial. Restore youthfulness and elasticity to your skin.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -688,6 +688,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s2.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -695,9 +696,8 @@
                                                                     <h3 class="font-26 font-weight-400">Glow & Radiance</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Instantly brighten dull skin with our Glow & Radiance treatment. Unveil a luminous, dewy complexion that shines from within.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -710,6 +710,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s3.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -717,9 +718,8 @@
                                                                     <h3 class="font-26 font-weight-400">Normal Wash</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>A gentle, soothing face wash using Pureexa's premium cleansers. Ideal for preparing your skin for further beauty treatments.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -751,6 +751,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s5.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -758,9 +759,8 @@
                                                                     <h3 class="font-26 font-weight-400">Head</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Melt away headaches and stress with a soothing head massage. Pureexa focuses on pressure points to promote deep mental relaxation.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -773,6 +773,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s6.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -780,9 +781,8 @@
                                                                     <h3 class="font-26 font-weight-400">Back </h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Target back pain and stiffness with a therapeutic back massage. Our techniques release knots and restore mobility to your spine.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -795,6 +795,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s1.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -802,9 +803,8 @@
                                                                     <h3 class="font-26 font-weight-400">Foot</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Soothe tired, aching feet with an invigorating foot massage. Improve circulation and experience full-body relief through reflexology.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -817,6 +817,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s2.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -824,9 +825,8 @@
                                                                     <h3 class="font-26 font-weight-400">Aromatherapy</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Engage your senses with an essential oil aromatherapy massage. Pureexa combines calming scents and gentle strokes for ultimate peace.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -839,6 +839,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s3.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -846,9 +847,8 @@
                                                                     <h3 class="font-26 font-weight-400">Scrub</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Exfoliate and renew your body with an invigorating scrub massage. Slough away dead skin cells to reveal a soft, radiant glow.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -861,6 +861,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s4.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -868,9 +869,8 @@
                                                                     <h3 class="font-26 font-weight-400">Tissue</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Alleviate chronic muscle tension with a deep tissue massage. Pureexa's therapists work on deeper muscle layers to relieve severe aches.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -902,16 +902,16 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s6.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-tilte">
                                                                     <h3 class="font-26 font-weight-400">Massage Therapy </h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
-                                                                    <p>Unwind with a custom massage tailored to your body's needs. Pureexa's spa environment provides the perfect escape from daily stress.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+                                                                    <p>Relieve stress and muscle tension with Pureexa's therapeutic massage sessions. Our expert touch promotes deep relaxation and improved circulation.</p>
+                                                                    <a href="{{ route('services') }}" class="site-button text-uppercase radius-sm">More</a>
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -924,6 +924,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s1.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -931,9 +932,8 @@
                                                                     <h3 class="font-26 font-weight-400">Facials</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Nourish your skin with natural spa facials. Let Pureexa's estheticians restore your natural balance and vibrant health.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -946,6 +946,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s2.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -953,9 +954,8 @@
                                                                     <h3 class="font-26 font-weight-400">Pedicures</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Experience a spa pedicure that revitalizes your feet. Complete with massage and premium polish for a stunning finish.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -968,6 +968,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s4.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -975,9 +976,8 @@
                                                                     <h3 class="font-26 font-weight-400">Manicures</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>A spa manicure that pampers your hands and nails. We use high-quality products to ensure healthy, beautiful hands.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -990,6 +990,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s4.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -997,9 +998,8 @@
                                                                     <h3 class="font-26 font-weight-400">Body Wraps</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Wrap yourself in luxury with Pureexa's spa body wraps. Infuse your skin with essential minerals and intensive moisture.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1012,6 +1012,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s5.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -1019,9 +1020,8 @@
                                                                     <h3 class="font-26 font-weight-400">Waxing & Cosmetics</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Complete your spa day with expert waxing and a touch of cosmetics. Step out of Pureexa looking and feeling your absolute best.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1053,6 +1053,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s1.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -1060,9 +1061,8 @@
                                                                     <h3 class="font-26 font-weight-400">Hair Color</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Discover a new hue with Pureexa's professional hair coloring. We use top-tier dyes that protect and enhance your hair's shine.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1075,6 +1075,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s2.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -1082,9 +1083,8 @@
                                                                     <h3 class="font-26 font-weight-400">Braids & Twist</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Express your personal style with intricate braids and twists. Our styling experts deliver beautiful results that last.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1097,6 +1097,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s3.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -1104,9 +1105,8 @@
                                                                     <h3 class="font-26 font-weight-400">Corrective Color</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Trust Pureexa's specialists for expert color correction. We carefully adjust tones to achieve your desired hair color safely.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1119,6 +1119,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s4.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -1126,9 +1127,8 @@
                                                                     <h3 class="font-26 font-weight-400">Hair Extension</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Transform your locks with luxurious hair extensions. Achieve the length and volume you've always dreamed of effortlessly.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1141,6 +1141,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s5.jpg') }}" alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -1148,9 +1149,8 @@
                                                                     <h3 class="font-26 font-weight-400">Hair Cut</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Get a fresh, modern haircut from Pureexa's talented stylists. We tailor every cut to suit your face shape and lifestyle.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1163,6 +1163,7 @@
                                                             <div class="col-lg-6 col-md-12">
                                                                 <div class="wt-media">
                                                                     <img src="{{ asset('assets/images/our-services/large/s6.jpg') }}"  alt="">
+
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6 col-md-12">
@@ -1170,9 +1171,8 @@
                                                                     <h3 class="font-26 font-weight-400">Partial Foil</h3>
                                                                     <h4 class="site-text-primary">$40 - $80</h4>
                                                                     <p>Brighten your hair with customized partial foils. A perfect way to add a touch of light and texture without a full color commitment.</p>
-                                                                    <a href="services-detail.html" class="site-button skew-icon-btn radius-sm">
-                                                                      <span class="font-weight-700 inline-block text-uppercase p-lr15">More</span>
-                                                                    </a>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
