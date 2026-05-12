@@ -35,7 +35,7 @@ Route::get('/contact', function () {
     return view('pages.contact');
 })->name('contact');
 
-Route::get('/Pricing', function () {
+Route::get('/pricing', function () {
     return view('pages.pricing');
 })->name('pricing');
 
@@ -181,6 +181,47 @@ Route::get('/privacy-policy', function () {
 Route::get('/terms-and-conditions', function () {
     return view('pages.terms-conditions');
 })->name('terms-conditions');
+
+Route::get('/projects', function () {
+    $projects = [
+        'bookopa' => [
+            'title' => 'Booking & Reservation Services',
+            'name' => 'Bookopa',
+            'image' => 'bookopa.png',
+            'category' => 'Booking Services',
+            'description' => 'Bookopa is a comprehensive booking and reservation platform designed to streamline appointments and service scheduling.'
+        ],
+        'hopeexa' => [
+            'title' => 'Charity Foundations',
+            'name' => 'Hopeexa',
+            'image' => 'hopeexa.png',
+            'category' => 'Charity',
+            'description' => 'Hopeexa is a dedicated platform for charity foundations, facilitating transparent donations and community engagement.'
+        ],
+        'martopa' => [
+            'title' => 'E-Commerce',
+            'name' => 'Martopa',
+            'image' => 'martopa.png',
+            'category' => 'E-Commerce',
+            'description' => 'Martopa is a robust e-commerce solution providing a wide range of products with a focus on ease of use.'
+        ],
+        'sitvly' => [
+            'title' => 'Real Estate Platforms',
+            'name' => 'Sitvly',
+            'image' => 'sitvly.png',
+            'category' => 'Real Estate',
+            'description' => 'Sitvly is a modern real estate platform that connects buyers, sellers, and agents.'
+        ],
+        'viewvvly' => [
+            'title' => 'OTT (Over-The-Top) Platforms',
+            'name' => 'Viewvly',
+            'image' => 'vievvly.png',
+            'category' => 'OTT Platform',
+            'description' => 'Viewvly is a cutting-edge OTT platform delivering high-quality streaming content.'
+        ],
+    ];
+    return view('pages.project', compact('projects'));
+})->name('project');
 
 Route::get('/projects/{slug}', function ($slug) {
     $projects = [

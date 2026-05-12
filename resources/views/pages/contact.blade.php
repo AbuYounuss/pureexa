@@ -101,7 +101,7 @@
                                     </div>
                                     <div class="icon-content">
                                         <h4 class="wt-tilte text-uppercase m-b0">Address</h4>
-                                        <p>295 Madison Ave, 12th Floor New York, NY 10017</p>
+                                        <p>432 Park Avenue, Suite 4200 New York, NY 10022</p>
                                     </div>
                                 </div>
                                 <div class="wt-icon-box-wraper left m-b30">

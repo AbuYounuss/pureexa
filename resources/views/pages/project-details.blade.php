@@ -78,7 +78,7 @@
                             </div>
                         </div>
 
-                        <a href="{{ url('/contact') }}" class="site-button text-uppercase radius-sm font-weight-700 button-lg">Request a Similar Project</a>
+                        <a href="{{ route('contact') }}" class="site-button text-uppercase radius-sm font-weight-700 button-lg">Request a Similar Project</a>
                     </div>
                 </div>
             </div>
@@ -89,7 +89,7 @@
         <div class="section-full p-t80 p-b50 bg-gray">
             <div class="container">
                 <div class="section-head text-center">
-                    <h2 class="text-uppercase">Our Portfolio</h2>
+                    <h2 class="text-uppercase">Others Company</h2>
                     <div class="wt-separator style-icon">
                         <i class="fa fa-leaf text-black"></i>
                         <span class="separator-left site-bg-primary"></span>

@@ -112,8 +112,8 @@
                                     <li><a href="{{ route('pricing') }}">Pricing</a></li>
                                     <li><a href="{{ route('services') }}">Services</a></li>
                                     <li><a href="{{ route('products') }}">Products</a></li>
-                                    <li><a href="{{ route('terms-conditions') }}">Terms & Condition</a></li>
-                                    <li><a href="{{ route('privacy-policy') }}">Privacy Policy</a></li>
+                                    <li><a href="{{ route('project') }}">Projects</a></li>
+                                    <li><a href="{{ route('contact') }}">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -158,9 +158,9 @@
                         </div>
                         <div class="wt-footer-bot-right">
                             <ul class="copyrights-nav pull-right">
-                                <li><a href="{{ url('/terms-conditions') }}">Terms & Condition</a></li>
-                                <li><a href="{{ url('/privacy-policy') }}">Privacy Policy</a></li>
-                                <li><a href="{{ url('/contact') }}">Contact Us</a></li>
+                                <li><a href="{{ route('terms-conditions') }}">Terms & Condition</a></li>
+                                <li><a href="{{ route('privacy-policy') }}">Privacy Policy</a></li>
+                                <li><a href="{{ route('contact') }}">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>

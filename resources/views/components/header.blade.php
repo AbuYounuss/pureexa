@@ -65,75 +65,20 @@
                                 </li>
 
                                 <!-- Projects -->
-                                <li class="has-mega-menu">
-                                    <a href="javascript:;">Projects <i class="fa fa-chevron-down"></i></a>
-                                    <ul class="mega-menu">
-                                        <li style="width: 20%;">
-                                            <div class="wt-box p-a10 text-center">
-                                                <div class="wt-media">
-                                                    <a href="{{ url('/projects/hopeexa') }}">
-                                                        <img src="{{ asset('assets/images/company/hopeexa.png') }}" alt="Hopeexa" style="max-height: 40px; object-fit: contain;">
-                                                    </a>
-                                                </div>
-                                                <div class="wt-info p-t10">
-                                                    <h6 class="wt-title m-b0"><a href="{{ url('/projects/hopeexa') }}">Hopeexa.com</a></h6>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li style="width: 20%;">
-                                            <div class="wt-box p-a10 text-center">
-                                                <div class="wt-media">
-                                                    <a href="{{ url('/projects/sitvly') }}">
-                                                        <img src="{{ asset('assets/images/company/sitvly.png') }}" alt="Sitvly" style="max-height: 40px; object-fit: contain;">
-                                                    </a>
-                                                </div>
-                                                <div class="wt-info p-t10">
-                                                    <h6 class="wt-title m-b0"><a href="{{ url('/projects/sitvly') }}">Sitvly.com</a></h6>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li style="width: 20%;">
-                                            <div class="wt-box p-a10 text-center">
-                                                <div class="wt-media">
-                                                    <a href="{{ url('/projects/bookopa') }}">
-                                                        <img src="{{ asset('assets/images/company/bookopa.png') }}" alt="Bookopa" style="max-height: 40px; object-fit: contain;">
-                                                    </a>
-                                                </div>
-                                                <div class="wt-info p-t10">
-                                                    <h6 class="wt-title m-b0"><a href="{{ url('/projects/bookopa') }}">Bookopa.com</a></h6>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li style="width: 20%;">
-                                            <div class="wt-box p-a10 text-center">
-                                                <div class="wt-media">
-                                                    <a href="{{ url('/projects/martopa') }}">
-                                                        <img src="{{ asset('assets/images/company/martopa.png') }}" alt="Martopa" style="max-height: 40px; object-fit: contain;">
-                                                    </a>
-                                                </div>
-                                                <div class="wt-info p-t10">
-                                                    <h6 class="wt-title m-b0"><a href="{{ url('/projects/martopa') }}">Martopa.com</a></h6>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li style="width: 20%;">
-                                            <div class="wt-box p-a10 text-center">
-                                                <div class="wt-media">
-                                                    <a href="{{ url('/projects/viewvvly') }}">
-                                                        <img src="{{ asset('assets/images/company/vievvly.png') }}" alt="Viewvly" style="max-height: 40px; object-fit: contain;">
-                                                    </a>
-                                                </div>
-                                                <div class="wt-info p-t10">
-                                                    <h6 class="wt-title m-b0"><a href="{{ url('/projects/viewvvly') }}">Viewvly.com</a></h6>
-                                                </div>
-                                            </div>
-                                        </li>
+                                <li>
+                                    <a href="{{ route('project') }}">Projects <i class="fa fa-chevron-down"></i></a>
+                                    <ul class="sub-menu">
+                                        <li><a href="{{ url('/projects/hopeexa') }}">Hopeexa</a></li>
+                                        <li><a href="{{ url('/projects/sitvly') }}">Sitvly</a></li>
+                                        <li><a href="{{ url('/projects/bookopa') }}">Bookopa</a></li>
+                                        <li><a href="{{ url('/projects/martopa') }}">Martopa</a></li>
+                                        <li><a href="{{ url('/projects/viewvvly') }}">Viewvly</a></li>
                                     </ul>
                                 </li>
 
                                 <!-- Pricing -->
                                 <li>
-                                    <a href="{{ url('/Pricing') }}">Pricing</a>
+                                    <a href="{{ route('pricing') }}">Pricing</a>
                                 </li>
 
                                 <!-- Blog -->
@@ -145,7 +90,7 @@
 
                                 <!-- Contact -->
                                 <li>
-                                    <a href="{{ url('/contact') }}">Contact</a>
+                                    <a href="{{ route('contact') }}">Contact</a>
                                 </li>
 
                             </ul>

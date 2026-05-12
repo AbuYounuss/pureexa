@@ -10,7 +10,7 @@
                                                 <h2>Pureexa Special Offer</h2>
                                                 <h3 class="text-uppercase">Elevate Your Health, Beauty & Makeup</h3>
                                                 <p>Treat yourself to our exclusive health, beauty, and premium makeup services at Pureexa. Experience personalized care tailored to enhance your natural radiance and well-being.</p>
-                                                <a href="shortcode-pricing-table.html" class="site-button text-uppercase radius-sm font-weight-700 button-lg" >view packages</a>
+                                                <a href="{{route('pricing')}}" class="site-button text-uppercase radius-sm font-weight-700 button-lg" >view packages</a>
                                             </div>
                                         </div>
                                         <div class="clearfix"></div>
