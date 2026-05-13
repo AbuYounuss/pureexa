@@ -34,8 +34,6 @@
                                                     </div>
                                                     <div class="overlay-main bg-black opacity-07"></div>
                                                 </div>
-
-
                                                 <ul class="pricingtable-features">
                                                 <li><i class="fa fa-check"></i> Essential Makeup Application </li>
                                                 <li><i class="fa fa-times"></i> Advanced Hair Styling </li>
@@ -47,9 +45,7 @@
                                                 <div class="pricingtable-footer">
                                                     <a href="{{route('contact')}}" class="site-button text-uppercase radius-sm">Purchase</a>
                                                 </div>
-
-                                            </div>
-
+                                           </div>
                                         </div>
                                     </div>
 
