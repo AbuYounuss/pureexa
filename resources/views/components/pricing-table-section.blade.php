@@ -52,7 +52,6 @@
                                     <div class="col-lg-4 col-md-4 col-sm-6 m-b30">
                                         <div class="pricingtable-wrapper pricing-table-style-4">
                                             <div class="pricingtable-inner bg-white radius">
-
                                                 <div class="overlay-wraper pricingtable-inner-overlay bg-no-repeat bg-cover" style="background-image:url('{{ asset('assets/images/our-work/pic2.jpg') }}');">
                                                     <div class="pricingtable-title">
                                                     <h3>Radiant Beauty</h3>
@@ -63,8 +62,6 @@
                                                     </div>
                                                     <div class="overlay-main bg-black opacity-07"></div>
                                                 </div>
-
-
                                                 <ul class="pricingtable-features">
                                                     <li><i class="fa fa-check"></i> Essential Makeup Application </li>
                                                     <li><i class="fa fa-check"></i> Advanced Hair Styling </li>
